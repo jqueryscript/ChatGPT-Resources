@@ -72,3 +72,4 @@
 - [DAILA](https://github.com/mahaloz/DAILA) - Decompiler Artifical Intelligence Language Assistant: Use ChatGPT for a improved Decompilation Experience.
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) - Have a conversation with ChatGPT using your voice, and have it talk back.Decompilation Experience.
 - [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) - use ChatGPT to generate PPT automatically.
+- [gptlang](https://github.com/forrestchang/gptlang) - A new programming language running in ChatGPT.
