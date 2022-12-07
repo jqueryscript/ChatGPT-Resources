@@ -6,3 +6,7 @@
 </p>
 
 <h1 align="center">ChatGPT Resources</h1>
+
+<p align="center">
+  Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
+</p>
