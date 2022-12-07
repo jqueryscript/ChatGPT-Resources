@@ -20,6 +20,7 @@
 - [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - API for interacting with ChatGPT using Python and from Shell.
 - [gptchatteR](https://github.com/isinaltinkaya/gptchatteR) - An experimental and unofficial wrapper for interacting with ChatGPT in R.
 - [OpenAISwift](https://github.com/adamrushy/OpenAISwift) - A wrapper library around the ChatGPT and OpenAI HTTP API
+- [chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI
 
 ## Browser Extensions
 
@@ -64,6 +65,7 @@
 ## CLI
 
 - [Alice](https://github.com/greshake/Alice) - Giving ChatGPT access to a real terminal.
+- [chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI
 
 ## Misc
 
@@ -73,3 +75,4 @@
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) - Have a conversation with ChatGPT using your voice, and have it talk back.Decompilation Experience.
 - [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) - use ChatGPT to generate PPT automatically.
 - [gptlang](https://github.com/forrestchang/gptlang) - A new programming language running in ChatGPT.
+- [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history.
