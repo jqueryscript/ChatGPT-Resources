@@ -32,7 +32,6 @@
 - [ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link.
 - [ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - A really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
 - [chat-gpt-search-extension](https://github.com/Doragd/chat-gpt-search-extension) - A browser extension to display ChatGPT response alongside Search results (fork from wong2 and develop continually)).
-- [ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link.
 
 ## Other Externsions
 
@@ -51,6 +50,8 @@
 - [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - OpenAI chatGPT discord bot.
 - [ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot) - A GPTChat based GitHub robot. dialogue/CR/etc.
 - [chatGPTLineBot](https://github.com/isdaviddong/chatGPTLineBot) - A GPTChat based Line robot.
+- [ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot) - ChatGPT for Slack Bot.
+- [chatgpt-speech-to-text](https://github.com/dylanbud/chatgpt-speech-to-text) - A simple voice-based chatbot that uses the ChatGPT model to generate responses to a users voice input.
 
 ## Libraries
 
@@ -64,8 +65,8 @@
 
 ## CLI
 
-- [Alice](https://github.com/greshake/Alice) - Giving ChatGPT access to a real terminal.
-- [chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI
+- [askai](https://github.com/yudax42/askai) - A command-line interface for OpenAI ChatGPT.
+- [chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI.
 
 ## Misc
 
@@ -76,3 +77,4 @@
 - [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) - use ChatGPT to generate PPT automatically.
 - [gptlang](https://github.com/forrestchang/gptlang) - A new programming language running in ChatGPT.
 - [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history.
+- [Alice](https://github.com/greshake/Alice) - Giving ChatGPT access to a real terminal.
