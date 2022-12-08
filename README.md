@@ -21,6 +21,7 @@
 - [gptchatteR](https://github.com/isinaltinkaya/gptchatteR) - An experimental and unofficial wrapper for interacting with ChatGPT in R.
 - [OpenAISwift](https://github.com/adamrushy/OpenAISwift) - A wrapper library around the ChatGPT and OpenAI HTTP API
 - [chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI
+- [chatgpt-java](https://github.com/PlexPt/chatgpt-java) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
 
 ## Browser Extensions
 
@@ -39,6 +40,7 @@
 - [chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - A Neovim plugin that lets you query ChatGPT inside a Neovim buffer.
 - [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - Unofficial ChatGPT raycast extension.
 - [docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT directly within Google Docs as an Editor Add-on.
+- [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - A Visual Studio Code extension to support ChatGPT. The extension is pair-programmed with ChatGPT.
 
 ## Bots
 
@@ -67,6 +69,7 @@
 
 - [askai](https://github.com/yudax42/askai) - A command-line interface for OpenAI ChatGPT.
 - [chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI.
+- [chatgpt](https://github.com/kkdai/chatgpt) - ChatGPT Console client in Golang.
 
 ## Misc
 
