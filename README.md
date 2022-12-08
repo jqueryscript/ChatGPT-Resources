@@ -64,6 +64,7 @@
 
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) - Unofficial open source OpenAI ChatGPT desktop app for mac, windows, and linux menubar using tauri & rust.
+- [ChatGPT](https://github.com/lencx/ChatGPT) - ChatGPT Desktop Application.
 
 ## CLI
 
