@@ -22,6 +22,7 @@
 - [OpenAISwift](https://github.com/adamrushy/OpenAISwift) - A wrapper library around the ChatGPT and OpenAI HTTP API
 - [chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI
 - [chatgpt-java](https://github.com/PlexPt/chatgpt-java) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
+- [chatgpt-api](https://github.com/taranjeet/chatgpt-api) - An unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
 
 ## Browser Extensions
 
@@ -32,7 +33,9 @@
 - [ChatGPT-Assistant](https://github.com/pdparchitect/ChatGPT-Assistant) - A powerful extension that enhances your browsing experience on the ChatGPT website, with features like page fetching and more.
 - [ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link.
 - [ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - A really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
-- [chat-gpt-search-extension](https://github.com/Doragd/chat-gpt-search-extension) - A browser extension to display ChatGPT response alongside Search results (fork from wong2 and develop continually)).
+- [chat-gpt-search-extension](https://github.com/Doragd/chat-gpt-search-extension) - A browser extension to display ChatGPT response alongside Search results (fork from wong2 and develop continually).
+- [chat-gpt-assistant](https://github.com/msfrisbie/chat-gpt-assistant) - A browser extension to integrate ChatGPT everywhere.
+- [chatgpt-extension](https://github.com/iOliverNguyen/chatgpt-extension) - This extension loads ChatGPT in the current tab, allowing you to use ChatGPT along your working session. Simply click the extension icon in your browser toolbar to activate ChatGPT or use the shortcut Ctrl + \ .
 
 ## Other Externsions
 
@@ -54,6 +57,7 @@
 - [chatGPTLineBot](https://github.com/isdaviddong/chatGPTLineBot) - A GPTChat based Line robot.
 - [ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot) - ChatGPT for Slack Bot.
 - [chatgpt-speech-to-text](https://github.com/dylanbud/chatgpt-speech-to-text) - A simple voice-based chatbot that uses the ChatGPT model to generate responses to a users voice input.
+- [Discord-ChatGPT-Bot](https://github.com/onury5506/Discord-ChatGPT-Bot) - Discord ChatGPT bot.
 
 ## Libraries
 
