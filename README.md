@@ -36,6 +36,7 @@
 - [chat-gpt-search-extension](https://github.com/Doragd/chat-gpt-search-extension) - A browser extension to display ChatGPT response alongside Search results (fork from wong2 and develop continually).
 - [chat-gpt-assistant](https://github.com/msfrisbie/chat-gpt-assistant) - A browser extension to integrate ChatGPT everywhere.
 - [chatgpt-extension](https://github.com/iOliverNguyen/chatgpt-extension) - This extension loads ChatGPT in the current tab, allowing you to use ChatGPT along your working session. Simply click the extension icon in your browser toolbar to activate ChatGPT or use the shortcut Ctrl + \ .
+- [chat-gpt-soliloquy](https://github.com/yetone/chat-gpt-soliloquy) - A Chrome extension that allows ChatGPT to engage in a conversation with itself.
 
 ## Other Externsions
 
@@ -44,6 +45,7 @@
 - [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - Unofficial ChatGPT raycast extension.
 - [docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT directly within Google Docs as an Editor Add-on.
 - [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - A Visual Studio Code extension to support ChatGPT. The extension is pair-programmed with ChatGPT.
+- [chatgpt-vscode-plugin](https://github.com/barnesoir/chatgpt-vscode-plugin) - A VS code plugin for ChatGPT built by ChatGPT.
 
 ## Bots
 
@@ -58,6 +60,7 @@
 - [ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot) - ChatGPT for Slack Bot.
 - [chatgpt-speech-to-text](https://github.com/dylanbud/chatgpt-speech-to-text) - A simple voice-based chatbot that uses the ChatGPT model to generate responses to a users voice input.
 - [Discord-ChatGPT-Bot](https://github.com/onury5506/Discord-ChatGPT-Bot) - Discord ChatGPT bot.
+- [chatgpt-telegram](https://github.com/Klingefjord/chatgpt-telegram) - A telegram bot for ChatGPT.
 
 ## Libraries
 
@@ -76,6 +79,7 @@
 - [askai](https://github.com/yudax42/askai) - A command-line interface for OpenAI ChatGPT.
 - [chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI.
 - [chatgpt](https://github.com/kkdai/chatgpt) - ChatGPT Console client in Golang.
+- [search](https://github.com/visualbasic6/search) - A cli google client written by ai (chatgpt) that bypasses captcha and rate limiting by using the google alerts "preview" feature.
 
 ## Misc
 
