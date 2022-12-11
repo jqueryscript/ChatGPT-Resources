@@ -23,6 +23,7 @@
 - [chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI
 - [chatgpt-java](https://github.com/PlexPt/chatgpt-java) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
 - [chatgpt-api](https://github.com/taranjeet/chatgpt-api) - An unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
+- [openaigo](https://github.com/otiai10/openaigo) - OpenAI (ChatGPT) API Client for Go.
 
 ## Browser Extensions
 
