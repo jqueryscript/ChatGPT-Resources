@@ -92,3 +92,4 @@
 - [gptlang](https://github.com/forrestchang/gptlang) - A new programming language running in ChatGPT.
 - [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history.
 - [Alice](https://github.com/greshake/Alice) - Giving ChatGPT access to a real terminal.
+- [chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you.
