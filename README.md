@@ -75,6 +75,7 @@
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) - Unofficial open source OpenAI ChatGPT desktop app for mac, windows, and linux menubar using tauri & rust.
 - [ChatGPT](https://github.com/lencx/ChatGPT) - ChatGPT Desktop Application.
+- [ChatGPT-Mac-MenuBar](https://github.com/KittenYang/ChatGPT-Mac-MenuBar) - Chat with OpenAI's ChatGPT in mac menu bar like a pro.
 
 ## CLI
 
@@ -83,6 +84,7 @@
 - [chatgpt](https://github.com/kkdai/chatgpt) - ChatGPT Console client in Golang.
 - [search](https://github.com/visualbasic6/search) - A cli google client written by ai (chatgpt) that bypasses captcha and rate limiting by using the google alerts "preview" feature.
 - [StackExplain](https://github.com/shobrook/stackexplain) - Explain your error message in plain English using ChatGPT. 
+- [assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service.
 
 ## Misc
 
@@ -95,3 +97,5 @@
 - [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history.
 - [Alice](https://github.com/greshake/Alice) - Giving ChatGPT access to a real terminal.
 - [chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you.
+- [ChatGPT Matrix Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Make ChatGPT like the Matrix.
+
