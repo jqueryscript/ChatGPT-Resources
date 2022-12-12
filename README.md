@@ -62,6 +62,7 @@
 - [chatgpt-speech-to-text](https://github.com/dylanbud/chatgpt-speech-to-text) - A simple voice-based chatbot that uses the ChatGPT model to generate responses to a users voice input.
 - [Discord-ChatGPT-Bot](https://github.com/onury5506/Discord-ChatGPT-Bot) - Discord ChatGPT bot.
 - [chatgpt-telegram](https://github.com/Klingefjord/chatgpt-telegram) - A telegram bot for ChatGPT.
+- [ChatGPT-macOS](https://github.com/sourcelocation/ChatGPT-macOS) - Interact with ChatGPT from your macOS Menu Bar.
 
 ## Libraries
 
@@ -81,6 +82,7 @@
 - [chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI.
 - [chatgpt](https://github.com/kkdai/chatgpt) - ChatGPT Console client in Golang.
 - [search](https://github.com/visualbasic6/search) - A cli google client written by ai (chatgpt) that bypasses captcha and rate limiting by using the google alerts "preview" feature.
+- [StackExplain](https://github.com/shobrook/stackexplain) - Explain your error message in plain English using ChatGPT. 
 
 ## Misc
 
