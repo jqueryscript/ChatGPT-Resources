@@ -24,6 +24,7 @@
 - [chatgpt-java](https://github.com/PlexPt/chatgpt-java) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
 - [chatgpt-api](https://github.com/taranjeet/chatgpt-api) - An unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
 - [openaigo](https://github.com/otiai10/openaigo) - OpenAI (ChatGPT) API Client for Go.
+- [flutter_chatgpt_api](https://github.com/coskuncay/flutter_chatgpt_api) - Use ChatGPT from Flutter / Dart.
 
 ## Browser Extensions
 
@@ -76,6 +77,7 @@
 - [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) - Unofficial open source OpenAI ChatGPT desktop app for mac, windows, and linux menubar using tauri & rust.
 - [ChatGPT](https://github.com/lencx/ChatGPT) - ChatGPT Desktop Application.
 - [ChatGPT-Mac-MenuBar](https://github.com/KittenYang/ChatGPT-Mac-MenuBar) - Chat with OpenAI's ChatGPT in mac menu bar like a pro.
+- [ChatGPT_production](https://github.com/sorrge/ChatGPT_production) - Minesweeper game made with ChatGPT.
 
 ## CLI
 
