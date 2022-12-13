@@ -11,6 +11,10 @@
   Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
 </p>
 
+## ChatGPT Status
+
+ChatGPT is currently down.
+
 ## API
 
 - [ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
