@@ -13,7 +13,7 @@
 
 ## ChatGPT Status
 
-ChatGPT is currently down.
+ChatGPT is currently temporarily down due to server overload. (Tuesday, 13 December 2022)
 
 ## API
 
