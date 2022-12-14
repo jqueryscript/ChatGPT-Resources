@@ -39,6 +39,7 @@
 - [chat-gpt-assistant](https://github.com/msfrisbie/chat-gpt-assistant) - A browser extension to integrate ChatGPT everywhere.
 - [chatgpt-extension](https://github.com/iOliverNguyen/chatgpt-extension) - This extension loads ChatGPT in the current tab, allowing you to use ChatGPT along your working session. Simply click the extension icon in your browser toolbar to activate ChatGPT or use the shortcut Ctrl + \ .
 - [chat-gpt-soliloquy](https://github.com/yetone/chat-gpt-soliloquy) - A Chrome extension that allows ChatGPT to engage in a conversation with itself.
+- [ChatGPT for Search Engine](https://github.com/josStorer/chatGPT-search-engine-extension) - A browser extension to display ChatGPT response alongside Search Engine results, supports Chrome/Edge/Firefox.
 
 ## Other Externsions
 
@@ -48,6 +49,8 @@
 - [docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT directly within Google Docs as an Editor Add-on.
 - [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - A Visual Studio Code extension to support ChatGPT. The extension is pair-programmed with ChatGPT.
 - [chatgpt-vscode-plugin](https://github.com/barnesoir/chatgpt-vscode-plugin) - A VS code plugin for ChatGPT built by ChatGPT.
+- [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
+
 
 ## Bots
 
@@ -65,6 +68,7 @@
 - [chatgpt-telegram](https://github.com/Klingefjord/chatgpt-telegram) - A telegram bot for ChatGPT.
 - [ChatGPT-macOS](https://github.com/sourcelocation/ChatGPT-macOS) - Interact with ChatGPT from your macOS Menu Bar.
 - [ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - An AI chat Telegram Bot with ChatGPT in fly.io.
+- [ChatGPTDiscord](https://github.com/ausbitbank/ChatGPTDiscord) - Discord bot for interacting with ChatGPT's API by OpenAI.
 
 ## Libraries
 
