@@ -64,6 +64,7 @@
 - [Discord-ChatGPT-Bot](https://github.com/onury5506/Discord-ChatGPT-Bot) - Discord ChatGPT bot.
 - [chatgpt-telegram](https://github.com/Klingefjord/chatgpt-telegram) - A telegram bot for ChatGPT.
 - [ChatGPT-macOS](https://github.com/sourcelocation/ChatGPT-macOS) - Interact with ChatGPT from your macOS Menu Bar.
+- [ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - An AI chat Telegram Bot with ChatGPT in fly.io.
 
 ## Libraries
 
