@@ -69,6 +69,7 @@
 - [ChatGPT-macOS](https://github.com/sourcelocation/ChatGPT-macOS) - Interact with ChatGPT from your macOS Menu Bar.
 - [ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - An AI chat Telegram Bot with ChatGPT in fly.io.
 - [ChatGPTDiscord](https://github.com/ausbitbank/ChatGPTDiscord) - Discord bot for interacting with ChatGPT's API by OpenAI.
+- [ChatGPT Teams Bot app](https://github.com/formulahendry/chatgpt-teams-bot) - A ChatGPT Teams Bot app to let you chat with ChatGPT in Microsoft Teams.
 
 ## Libraries
 
@@ -83,6 +84,8 @@
 - [ChatGPT](https://github.com/lencx/ChatGPT) - ChatGPT Desktop Application.
 - [ChatGPT-Mac-MenuBar](https://github.com/KittenYang/ChatGPT-Mac-MenuBar) - Chat with OpenAI's ChatGPT in mac menu bar like a pro.
 - [ChatGPT_production](https://github.com/sorrge/ChatGPT_production) - Minesweeper game made with ChatGPT.
+- [Quest](https://github.com/farrael004/Quest) - This is a web app that integrates GPT-3 with google searches.
+- [chatgpt-clone](https://github.com/afizs/chatgpt-clone) - Build Your own ChatGPT with OpenAI API and Streamlit.
 
 ## CLI
 
