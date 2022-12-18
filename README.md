@@ -42,6 +42,7 @@
 - [ChatGPT for Search Engine](https://github.com/josStorer/chatGPT-search-engine-extension) - A browser extension to display ChatGPT response alongside Search Engine results, supports Chrome/Edge/Firefox.
 - [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt) - A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant
 ## Other Externsions.
+- [ChatGPT History](https://github.com/benf2004/ChatGPT-History) - A browser extension that allows you to save your ChatGPT conversation history. With this extension, you can easily review your past conversations and refer to them at a later time.
 
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT.
 - [chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - A Neovim plugin that lets you query ChatGPT inside a Neovim buffer.
@@ -70,6 +71,8 @@
 - [ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - An AI chat Telegram Bot with ChatGPT in fly.io.
 - [ChatGPTDiscord](https://github.com/ausbitbank/ChatGPTDiscord) - Discord bot for interacting with ChatGPT's API by OpenAI.
 - [ChatGPT Teams Bot app](https://github.com/formulahendry/chatgpt-teams-bot) - A ChatGPT Teams Bot app to let you chat with ChatGPT in Microsoft Teams.
+- [chatgpt-bot](https://github.com/MrlolDev/chatgpt-discord-bot) - A discord bot for interact with ChatGPT.
+- [GPT3Discord](https://github.com/Kav-K/GPT3Discord) - A robust, but simple GPT3 interface with Discord. Chat just like ChatGPT right inside Discord!
 
 ## Libraries
 
