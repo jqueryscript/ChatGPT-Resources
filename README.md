@@ -40,10 +40,12 @@
 - [chatgpt-extension](https://github.com/iOliverNguyen/chatgpt-extension) - This extension loads ChatGPT in the current tab, allowing you to use ChatGPT along your working session. Simply click the extension icon in your browser toolbar to activate ChatGPT or use the shortcut Ctrl + \ .
 - [chat-gpt-soliloquy](https://github.com/yetone/chat-gpt-soliloquy) - A Chrome extension that allows ChatGPT to engage in a conversation with itself.
 - [ChatGPT for Search Engine](https://github.com/josStorer/chatGPT-search-engine-extension) - A browser extension to display ChatGPT response alongside Search Engine results, supports Chrome/Edge/Firefox.
-- [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt) - A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant
+- [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt) - A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant.
+- [tweetGPT](https://github.com/yaroslav-n/tweetGPT) - A chrome extension that generates tweets and replies using chatGPT.
+- [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) - A simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
+
 ## Other Externsions.
 - [ChatGPT History](https://github.com/benf2004/ChatGPT-History) - A browser extension that allows you to save your ChatGPT conversation history. With this extension, you can easily review your past conversations and refer to them at a later time.
-
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT.
 - [chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - A Neovim plugin that lets you query ChatGPT inside a Neovim buffer.
 - [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - Unofficial ChatGPT raycast extension.
