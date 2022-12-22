@@ -43,6 +43,7 @@
 - [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt) - A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant.
 - [tweetGPT](https://github.com/yaroslav-n/tweetGPT) - A chrome extension that generates tweets and replies using chatGPT.
 - [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) - A simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
+- [gpt-best-chrome](https://github.com/rileytomasek/gpt-best-chrome) - Chrome extension for saving ChatGPT threads using gpt.best.
 
 ## Other Externsions.
 - [ChatGPT History](https://github.com/benf2004/ChatGPT-History) - A browser extension that allows you to save your ChatGPT conversation history. With this extension, you can easily review your past conversations and refer to them at a later time.
@@ -53,7 +54,6 @@
 - [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - A Visual Studio Code extension to support ChatGPT. The extension is pair-programmed with ChatGPT.
 - [chatgpt-vscode-plugin](https://github.com/barnesoir/chatgpt-vscode-plugin) - A VS code plugin for ChatGPT built by ChatGPT.
 - [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
-
 
 ## Bots
 
@@ -75,6 +75,9 @@
 - [ChatGPT Teams Bot app](https://github.com/formulahendry/chatgpt-teams-bot) - A ChatGPT Teams Bot app to let you chat with ChatGPT in Microsoft Teams.
 - [chatgpt-bot](https://github.com/MrlolDev/chatgpt-discord-bot) - A discord bot for interact with ChatGPT.
 - [GPT3Discord](https://github.com/Kav-K/GPT3Discord) - A robust, but simple GPT3 interface with Discord. Chat just like ChatGPT right inside Discord!
+- [matrix-chatgpt-bot](https://github.com/jakecoppinger/matrix-chatgpt-bot) - Talk to ChatGPT via your favourite Matrix client!
+- [whatsgpt](https://github.com/pascalroget/whatsgpt) - WhatsApp Bot for ChatGPT with multiple user support.
+- [chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord) - Run your own GPTChat Discord bot, with a single command!
 
 ## Libraries
 
@@ -113,4 +116,5 @@
 - [Alice](https://github.com/greshake/Alice) - Giving ChatGPT access to a real terminal.
 - [chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you.
 - [ChatGPT Matrix Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Make ChatGPT like the Matrix.
-
+- [ChatARKit](https://github.com/trzy/ChatARKit) - Using ChatGPT to Create AR Experiences with Natural Language
+- [chat-gpt](https://github.com/jcubic/chat-gpt) - ChatGPT conversation saving bookmark.
