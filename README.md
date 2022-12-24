@@ -25,6 +25,7 @@
 - [chatgpt-api](https://github.com/taranjeet/chatgpt-api) - An unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
 - [openaigo](https://github.com/otiai10/openaigo) - OpenAI (ChatGPT) API Client for Go.
 - [flutter_chatgpt_api](https://github.com/coskuncay/flutter_chatgpt_api) - Use ChatGPT from Flutter / Dart.
+- [ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) - API server for ChatGPT.
 
 ## Browser Extensions
 
@@ -84,6 +85,7 @@
 - [summarize.site](https://github.com/clmnin/summarize.site) - Summarize web pages using OpenAI ChatGPT
 - [sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [OpenAIAuth](https://github.com/acheong08/OpenAIAuth) - OpenAI Authentication Library for ChatGPT
+- [talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) - A new javascript program that allows users to interact with the ChatGPT AI using their voice, rather than just by typing. 
 
 ## Apps
 
