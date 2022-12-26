@@ -26,6 +26,7 @@
 - [openaigo](https://github.com/otiai10/openaigo) - OpenAI (ChatGPT) API Client for Go.
 - [flutter_chatgpt_api](https://github.com/coskuncay/flutter_chatgpt_api) - Use ChatGPT from Flutter / Dart.
 - [ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) - API server for ChatGPT.
+- [easyChatGPT](https://github.com/LanLan69/easyChatGPT) - An unofficial yet elegant interface of the ChatGPT API using browser automation that bypasses cloudflare detection and recaptchas.
 
 ## Browser Extensions
 
@@ -45,6 +46,7 @@
 - [tweetGPT](https://github.com/yaroslav-n/tweetGPT) - A chrome extension that generates tweets and replies using chatGPT.
 - [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) - A simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
 - [gpt-best-chrome](https://github.com/rileytomasek/gpt-best-chrome) - Chrome extension for saving ChatGPT threads using gpt.best.
+- [ChatGPT-API-agent](https://github.com/ChatGPT-Hackers/ChatGPT-API-agent) - ChatGPT API Agent (Firefox version).
 
 ## Other Externsions.
 - [ChatGPT History](https://github.com/benf2004/ChatGPT-History) - A browser extension that allows you to save your ChatGPT conversation history. With this extension, you can easily review your past conversations and refer to them at a later time.
@@ -55,6 +57,7 @@
 - [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - A Visual Studio Code extension to support ChatGPT. The extension is pair-programmed with ChatGPT.
 - [chatgpt-vscode-plugin](https://github.com/barnesoir/chatgpt-vscode-plugin) - A VS code plugin for ChatGPT built by ChatGPT.
 - [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
+- [vim-chatgpt](https://github.com/mattn/vim-chatgpt) - Vim plugin for ChatGPT
 
 ## Bots
 
