@@ -108,6 +108,7 @@
 - [search](https://github.com/visualbasic6/search) - A cli google client written by ai (chatgpt) that bypasses captcha and rate limiting by using the google alerts "preview" feature.
 - [StackExplain](https://github.com/shobrook/stackexplain) - Explain your error message in plain English using ChatGPT. 
 - [assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service.
+- [cligpt](https://github.com/paij0se/cligpt) - chat-gpt but in the terminal.
 
 ## Misc
 
@@ -123,3 +124,4 @@
 - [ChatGPT Matrix Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Make ChatGPT like the Matrix.
 - [ChatARKit](https://github.com/trzy/ChatARKit) - Using ChatGPT to Create AR Experiences with Natural Language
 - [chat-gpt](https://github.com/jcubic/chat-gpt) - ChatGPT conversation saving bookmark.
+- [chatgpt-clone](https://github.com/EyuCoder/chatgpt-clone) - A ChatGPT Clone with DALL.E using OpenAIs text-davinci-003 and image generation Model.
