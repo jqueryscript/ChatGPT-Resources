@@ -47,6 +47,8 @@
 - [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) - A simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
 - [gpt-best-chrome](https://github.com/rileytomasek/gpt-best-chrome) - Chrome extension for saving ChatGPT threads using gpt.best.
 - [ChatGPT-API-agent](https://github.com/ChatGPT-Hackers/ChatGPT-API-agent) - ChatGPT API Agent (Firefox version).
+- [hey-addy-chatgpt](https://github.com/MichaelVandi/hey-addy-chatgpt) - Email assistant powered by ChatGPT.
+- [GPT-Cookies](https://github.com/itsbrex/GPT-Cookies) - Chrome Extension to easily copy your ChatGPT cookies + user-agent to clipboard with one click.
 
 ## Other Externsions.
 - [ChatGPT History](https://github.com/benf2004/ChatGPT-History) - A browser extension that allows you to save your ChatGPT conversation history. With this extension, you can easily review your past conversations and refer to them at a later time.
