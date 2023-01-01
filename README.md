@@ -49,9 +49,9 @@
 - [ChatGPT-API-agent](https://github.com/ChatGPT-Hackers/ChatGPT-API-agent) - ChatGPT API Agent (Firefox version).
 - [hey-addy-chatgpt](https://github.com/MichaelVandi/hey-addy-chatgpt) - Email assistant powered by ChatGPT.
 - [GPT-Cookies](https://github.com/itsbrex/GPT-Cookies) - Chrome Extension to easily copy your ChatGPT cookies + user-agent to clipboard with one click.
+- [ChatGPT History](https://github.com/benf2004/ChatGPT-History) - A browser extension that allows you to save your ChatGPT conversation history. With this extension, you can easily review your past conversations and refer to them at a later time.
 
 ## Other Externsions.
-- [ChatGPT History](https://github.com/benf2004/ChatGPT-History) - A browser extension that allows you to save your ChatGPT conversation history. With this extension, you can easily review your past conversations and refer to them at a later time.
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT.
 - [chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - A Neovim plugin that lets you query ChatGPT inside a Neovim buffer.
 - [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - Unofficial ChatGPT raycast extension.
@@ -60,6 +60,7 @@
 - [chatgpt-vscode-plugin](https://github.com/barnesoir/chatgpt-vscode-plugin) - A VS code plugin for ChatGPT built by ChatGPT.
 - [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
 - [vim-chatgpt](https://github.com/mattn/vim-chatgpt) - Vim plugin for ChatGPT
+- [MenuChatGPT](https://github.com/ericlewis/MenuChatGPT) - ChatGPT as a status bar item for macOS
 
 ## Bots
 
@@ -84,6 +85,8 @@
 - [matrix-chatgpt-bot](https://github.com/jakecoppinger/matrix-chatgpt-bot) - Talk to ChatGPT via your favourite Matrix client!
 - [whatsgpt](https://github.com/pascalroget/whatsgpt) - WhatsApp Bot for ChatGPT with multiple user support.
 - [chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord) - Run your own GPTChat Discord bot, with a single command!
+- [slack-chat-gpt](https://github.com/halilylm/slack-chat-gpt) - Slack bot assisted with ChatGPT.
+- [LINE-Bot-ChatSummarizer](https://github.com/kkdai/LINE-Bot-ChatSummarizer) - Use ChatGPT to summarize your group chat as a chat summarizer with the LINE Bot Chat Summarizer.
 
 ## Libraries
 
@@ -111,6 +114,7 @@
 - [StackExplain](https://github.com/shobrook/stackexplain) - Explain your error message in plain English using ChatGPT. 
 - [assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service.
 - [cligpt](https://github.com/paij0se/cligpt) - chat-gpt but in the terminal.
+- [go-assistant](https://github.com/halilylm/go-assistant) - CLI App interacting with ChatGPT.
 
 ## Misc
 
