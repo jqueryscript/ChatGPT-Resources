@@ -61,6 +61,7 @@
 - [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
 - [vim-chatgpt](https://github.com/mattn/vim-chatgpt) - Vim plugin for ChatGPT
 - [MenuChatGPT](https://github.com/ericlewis/MenuChatGPT) - ChatGPT as a status bar item for macOS
+- [ExplainThisCode](https://github.com/evyatar9/ExplainThisCode) - A VSCode extension that uses the ChatGPT API to provide explanations for selected code.
 
 ## Bots
 
