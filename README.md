@@ -27,6 +27,7 @@
 - [flutter_chatgpt_api](https://github.com/coskuncay/flutter_chatgpt_api) - Use ChatGPT from Flutter / Dart.
 - [ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) - API server for ChatGPT.
 - [easyChatGPT](https://github.com/LanLan69/easyChatGPT) - An unofficial yet elegant interface of the ChatGPT API using browser automation that bypasses cloudflare detection and recaptchas.
+- [chatgpt-io](https://github.com/PawanOsman/chatgpt-io) - ChatGPT Client API, Blazing Fast, without using browser.
 
 ## Browser Extensions
 
@@ -50,6 +51,8 @@
 - [hey-addy-chatgpt](https://github.com/MichaelVandi/hey-addy-chatgpt) - Email assistant powered by ChatGPT.
 - [GPT-Cookies](https://github.com/itsbrex/GPT-Cookies) - Chrome Extension to easily copy your ChatGPT cookies + user-agent to clipboard with one click.
 - [ChatGPT History](https://github.com/benf2004/ChatGPT-History) - A browser extension that allows you to save your ChatGPT conversation history. With this extension, you can easily review your past conversations and refer to them at a later time.
+- [chat-gpt-jupyter-extension](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - A browser extension to provide various AI helper functions in Jupyter Notebooks, powered by ChatGPT.
+- [Chat-GPT-for-Gmail](https://github.com/dtkdt100/Chat-GPT-for-Gmail) - A browser extension to complete your email with the help of ChatGPT.
 
 ## Other Externsions.
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT.
@@ -116,6 +119,7 @@
 - [assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service.
 - [cligpt](https://github.com/paij0se/cligpt) - chat-gpt but in the terminal.
 - [go-assistant](https://github.com/halilylm/go-assistant) - CLI App interacting with ChatGPT.
+- [terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal.
 
 ## Misc
 
