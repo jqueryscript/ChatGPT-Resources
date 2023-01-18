@@ -28,6 +28,10 @@
 - [ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) - API server for ChatGPT.
 - [easyChatGPT](https://github.com/LanLan69/easyChatGPT) - An unofficial yet elegant interface of the ChatGPT API using browser automation that bypasses cloudflare detection and recaptchas.
 - [chatgpt-io](https://github.com/PawanOsman/chatgpt-io) - ChatGPT Client API, Blazing Fast, without using browser.
+- [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - ChatGPT API Server.
+- [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) - A simple light-weight library that wraps ChatGPT API completions. Additions to support images and other beta features are in progress.
+- [ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server) - API server for ChatGPT.
+- [ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server) - API server for ChatGPT.
 
 ## Browser Extensions
 
@@ -53,6 +57,7 @@
 - [ChatGPT History](https://github.com/benf2004/ChatGPT-History) - A browser extension that allows you to save your ChatGPT conversation history. With this extension, you can easily review your past conversations and refer to them at a later time.
 - [chat-gpt-jupyter-extension](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - A browser extension to provide various AI helper functions in Jupyter Notebooks, powered by ChatGPT.
 - [Chat-GPT-for-Gmail](https://github.com/dtkdt100/Chat-GPT-for-Gmail) - A browser extension to complete your email with the help of ChatGPT.
+- [ChatGPT-SelfChat](https://github.com/vitaminwater/ChatGPT-SelfChat) - Stupid browser extension to make two instances of GPT chat together.
 
 ## Other Externsions.
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT.
@@ -65,6 +70,7 @@
 - [vim-chatgpt](https://github.com/mattn/vim-chatgpt) - Vim plugin for ChatGPT
 - [MenuChatGPT](https://github.com/ericlewis/MenuChatGPT) - ChatGPT as a status bar item for macOS
 - [ExplainThisCode](https://github.com/evyatar9/ExplainThisCode) - A VSCode extension that uses the ChatGPT API to provide explanations for selected code.
+- [ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension) - ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
 
 ## Bots
 
@@ -91,6 +97,8 @@
 - [chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord) - Run your own GPTChat Discord bot, with a single command!
 - [slack-chat-gpt](https://github.com/halilylm/slack-chat-gpt) - Slack bot assisted with ChatGPT.
 - [LINE-Bot-ChatSummarizer](https://github.com/kkdai/LINE-Bot-ChatSummarizer) - Use ChatGPT to summarize your group chat as a chat summarizer with the LINE Bot Chat Summarizer.
+- [chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - ChatGPT Telegram Bot (fast and no limits).
+- [chatgpt-whatsapp](https://github.com/noelzappy/chatgpt-whatsapp) - A simple WhatsApp bot that uses OpenAI's ChatGPT to respond to user inputs. Includes a cron to enable ChatGPT to send messages to recipients at periodic intervals.
 
 ## Libraries
 
@@ -120,10 +128,14 @@
 - [cligpt](https://github.com/paij0se/cligpt) - chat-gpt but in the terminal.
 - [go-assistant](https://github.com/halilylm/go-assistant) - CLI App interacting with ChatGPT.
 - [terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal.
+- [chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's chatGPT and DALL-E from the terminal.
+
+## Prompts
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
+- [ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT prompt curation to use ChatGPT better.
+- [awesome-chatgpt-suggestions](https://github.com/aminblm/awesome-chatgpt-suggestions) - List of prompts for chatGPT for various assistances with tasks.
 
 ## Misc
-
-- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
 - [chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT.
 - [DAILA](https://github.com/mahaloz/DAILA) - Decompiler Artifical Intelligence Language Assistant: Use ChatGPT for a improved Decompilation Experience.
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) - Have a conversation with ChatGPT using your voice, and have it talk back.Decompilation Experience.
@@ -136,3 +148,4 @@
 - [ChatARKit](https://github.com/trzy/ChatARKit) - Using ChatGPT to Create AR Experiences with Natural Language
 - [chat-gpt](https://github.com/jcubic/chat-gpt) - ChatGPT conversation saving bookmark.
 - [chatgpt-clone](https://github.com/EyuCoder/chatgpt-clone) - A ChatGPT Clone with DALL.E using OpenAIs text-davinci-003 and image generation Model.
+- [chatgpt-go](https://github.com/chatgp/chatgpt-go) - Chatgpt sdk writen by golang.
