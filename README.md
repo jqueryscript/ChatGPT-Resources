@@ -99,6 +99,8 @@
 - [LINE-Bot-ChatSummarizer](https://github.com/kkdai/LINE-Bot-ChatSummarizer) - Use ChatGPT to summarize your group chat as a chat summarizer with the LINE Bot Chat Summarizer.
 - [chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - ChatGPT Telegram Bot (fast and no limits).
 - [chatgpt-whatsapp](https://github.com/noelzappy/chatgpt-whatsapp) - A simple WhatsApp bot that uses OpenAI's ChatGPT to respond to user inputs. Includes a cron to enable ChatGPT to send messages to recipients at periodic intervals.
+- [GPT-Linebot-python-flask-on-vercel](https://github.com/howarder3/GPT-Linebot-python-flask-on-vercel) - GPT-Linebot using python flask for vercel.
+- [wpp-chatgpt](https://github.com/Santosl2/wpp-chatgpt) - Make your whatsapp BOT talk like a human using ChatGPT!
 
 ## Libraries
 
@@ -116,6 +118,7 @@
 - [ChatGPT_production](https://github.com/sorrge/ChatGPT_production) - Minesweeper game made with ChatGPT.
 - [Quest](https://github.com/farrael004/Quest) - This is a web app that integrates GPT-3 with google searches.
 - [chatgpt-clone](https://github.com/afizs/chatgpt-clone) - Build Your own ChatGPT with OpenAI API and Streamlit.
+- [ChatGPT-macOS](https://github.com/sourcelocation/ChatGPT-macOS) - Interact with ChatGPT from your macOS Menu Bar.
 
 ## CLI
 
@@ -134,6 +137,7 @@
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
 - [ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT prompt curation to use ChatGPT better.
 - [awesome-chatgpt-suggestions](https://github.com/aminblm/awesome-chatgpt-suggestions) - List of prompts for chatGPT for various assistances with tasks.
+- [ChatGPT-Prompts-In-50Languages](https://github.com/TarrySingh/ChatGPT-Prompts-In-50Languages) - Awesome ChatGPT Prompt in 50 Languages.
 
 ## Misc
 - [chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT.
