@@ -31,7 +31,6 @@
 - [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - ChatGPT API Server.
 - [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) - A simple light-weight library that wraps ChatGPT API completions. Additions to support images and other beta features are in progress.
 - [ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server) - API server for ChatGPT.
-- [ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server) - API server for ChatGPT.
 
 ## Browser Extensions
 
@@ -58,6 +57,7 @@
 - [chat-gpt-jupyter-extension](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - A browser extension to provide various AI helper functions in Jupyter Notebooks, powered by ChatGPT.
 - [Chat-GPT-for-Gmail](https://github.com/dtkdt100/Chat-GPT-for-Gmail) - A browser extension to complete your email with the help of ChatGPT.
 - [ChatGPT-SelfChat](https://github.com/vitaminwater/ChatGPT-SelfChat) - Stupid browser extension to make two instances of GPT chat together.
+- [chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
 
 ## Other Externsions.
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT.
@@ -101,6 +101,9 @@
 - [chatgpt-whatsapp](https://github.com/noelzappy/chatgpt-whatsapp) - A simple WhatsApp bot that uses OpenAI's ChatGPT to respond to user inputs. Includes a cron to enable ChatGPT to send messages to recipients at periodic intervals.
 - [GPT-Linebot-python-flask-on-vercel](https://github.com/howarder3/GPT-Linebot-python-flask-on-vercel) - GPT-Linebot using python flask for vercel.
 - [wpp-chatgpt](https://github.com/Santosl2/wpp-chatgpt) - Make your whatsapp BOT talk like a human using ChatGPT!
+- [chatgpt-whatsapp](https://github.com/theazran/chatgpt-whatsapp) - ChatGPT OpenAI WhatsApp
+- [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - Talk to ChatGPT via your favourite Matrix client!
+- [BotWhatsapp](https://github.com/try-catch-dev/BotWhatsapp) - Bot Whatsapp
 
 ## Libraries
 
@@ -108,6 +111,7 @@
 - [sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [OpenAIAuth](https://github.com/acheong08/OpenAIAuth) - OpenAI Authentication Library for ChatGPT
 - [talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) - A new javascript program that allows users to interact with the ChatGPT AI using their voice, rather than just by typing. 
+- [liboai](https://github.com/D7EAD/liboai) - A C++17 library to access the entire OpenAI API.
 
 ## Apps
 
@@ -132,12 +136,16 @@
 - [go-assistant](https://github.com/halilylm/go-assistant) - CLI App interacting with ChatGPT.
 - [terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal.
 - [chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's chatGPT and DALL-E from the terminal.
+- [chatgpt_cli](https://github.com/zawawiAI/chatgpt_cli) - This script allows you to use OpenAI in your CLIs tested on Linux terminal, Mac Terminal and Windows Command Prompt.
+- [shellgpt](https://github.com/kpatronas/shellgpt) - Query chatgpt from your shell.
+- [Houston](https://github.com/npgrosser/Houston) - An AI Assistant and Script Generator for your Terminal, which enables you to accomplish a wide range of tasks with simple, natural language instructions.
 
 ## Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
 - [ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT prompt curation to use ChatGPT better.
 - [awesome-chatgpt-suggestions](https://github.com/aminblm/awesome-chatgpt-suggestions) - List of prompts for chatGPT for various assistances with tasks.
 - [ChatGPT-Prompts-In-50Languages](https://github.com/TarrySingh/ChatGPT-Prompts-In-50Languages) - Awesome ChatGPT Prompt in 50 Languages.
+- [ChatGPT-Prompts](https://github.com/PrathamKumar14/ChatGPT-Prompts) - AI is taking over slowly. Here are some use ChatGPT/API prompts that help you unlock 100% of your productivity.
 
 ## Misc
 - [chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT.
@@ -153,3 +161,4 @@
 - [chat-gpt](https://github.com/jcubic/chat-gpt) - ChatGPT conversation saving bookmark.
 - [chatgpt-clone](https://github.com/EyuCoder/chatgpt-clone) - A ChatGPT Clone with DALL.E using OpenAIs text-davinci-003 and image generation Model.
 - [chatgpt-go](https://github.com/chatgp/chatgpt-go) - Chatgpt sdk writen by golang.
+- [chatgpt-github-actions](https://github.com/cirolini/chatgpt-github-actions) - This project aims to automate code review using the ChatGPT language model. It integrates with Github Actions, and upon receiving a Pull Request, it automatically sends each code review to ChatGPT for an explanation.
