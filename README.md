@@ -34,6 +34,7 @@
 
 ## Browser Extensions
 
+- [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT.
 - [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results.
 - [ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) - Chrome Extension that Integrates ChatGPT (Unofficial) into Google Search.
 - [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
@@ -58,6 +59,7 @@
 - [Chat-GPT-for-Gmail](https://github.com/dtkdt100/Chat-GPT-for-Gmail) - A browser extension to complete your email with the help of ChatGPT.
 - [ChatGPT-SelfChat](https://github.com/vitaminwater/ChatGPT-SelfChat) - Stupid browser extension to make two instances of GPT chat together.
 - [chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
+- [chatgpt-soliloquy](https://github.com/yetone/chatgpt-soliloquy) - A Chrome extension that allows ChatGPT to engage in a conversation with itself.
 
 ## Other Externsions.
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT.
@@ -71,6 +73,7 @@
 - [MenuChatGPT](https://github.com/ericlewis/MenuChatGPT) - ChatGPT as a status bar item for macOS
 - [ExplainThisCode](https://github.com/evyatar9/ExplainThisCode) - A VSCode extension that uses the ChatGPT API to provide explanations for selected code.
 - [ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension) - ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
+- [ScribeAI](https://github.com/ajikan/ScribeAI) - ChatGPT extension for VSCode.
 
 ## Bots
 
@@ -104,6 +107,7 @@
 - [chatgpt-whatsapp](https://github.com/theazran/chatgpt-whatsapp) - ChatGPT OpenAI WhatsApp
 - [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - Talk to ChatGPT via your favourite Matrix client!
 - [BotWhatsapp](https://github.com/try-catch-dev/BotWhatsapp) - Bot Whatsapp
+- [ChatGPT-Binance-Trading](https://github.com/JoeKaram78/ChatGPT-Binance-Trading) - Simple trading bot which use ChatGPT algorithm trading.
 
 ## Libraries
 
@@ -112,6 +116,7 @@
 - [OpenAIAuth](https://github.com/acheong08/OpenAIAuth) - OpenAI Authentication Library for ChatGPT
 - [talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) - A new javascript program that allows users to interact with the ChatGPT AI using their voice, rather than just by typing. 
 - [liboai](https://github.com/D7EAD/liboai) - A C++17 library to access the entire OpenAI API.
+- [TalkGPT](https://github.com/ShadovvBeast/TalkGPT) - TalkGPT allows you to easily interact with ChatGPT, the state-of-the-art language model developed by OpenAI. With TalkGPT, you can talk to ChatGPT naturally, with your voice, and it will answer with a voice as well!
 
 ## Apps
 
@@ -139,6 +144,7 @@
 - [chatgpt_cli](https://github.com/zawawiAI/chatgpt_cli) - This script allows you to use OpenAI in your CLIs tested on Linux terminal, Mac Terminal and Windows Command Prompt.
 - [shellgpt](https://github.com/kpatronas/shellgpt) - Query chatgpt from your shell.
 - [Houston](https://github.com/npgrosser/Houston) - An AI Assistant and Script Generator for your Terminal, which enables you to accomplish a wide range of tasks with simple, natural language instructions.
+- [gpt_cli](https://github.com/zawawiAI/gpt_cli) - This script allows you to use OpenAI in your CLIs tested on Linux terminal, Mac Terminal and Windows Command Prompt.
 
 ## Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
@@ -162,3 +168,4 @@
 - [chatgpt-clone](https://github.com/EyuCoder/chatgpt-clone) - A ChatGPT Clone with DALL.E using OpenAIs text-davinci-003 and image generation Model.
 - [chatgpt-go](https://github.com/chatgp/chatgpt-go) - Chatgpt sdk writen by golang.
 - [chatgpt-github-actions](https://github.com/cirolini/chatgpt-github-actions) - This project aims to automate code review using the ChatGPT language model. It integrates with Github Actions, and upon receiving a Pull Request, it automatically sends each code review to ChatGPT for an explanation.
+- [voice_chatgpt](https://github.com/nickbild/voice_chatgpt) - VoiceGPT is a voice assistant that leverages the powerful ChatGPT chatbot to answer your questions. You speak the requests, and VoiceGPT responds with realistic, synthesized speech.
