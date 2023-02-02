@@ -108,6 +108,7 @@
 - [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - Talk to ChatGPT via your favourite Matrix client!
 - [BotWhatsapp](https://github.com/try-catch-dev/BotWhatsapp) - Bot Whatsapp
 - [ChatGPT-Binance-Trading](https://github.com/JoeKaram78/ChatGPT-Binance-Trading) - Simple trading bot which use ChatGPT algorithm trading.
+- [chatgpt-telegram-bot](https://github.com/RainEggplant/chatgpt-telegram-bot) - A ChatGPT bot for Telegram based on Node.js. Works with Cloudflare protection.
 
 ## Libraries
 
@@ -117,6 +118,7 @@
 - [talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) - A new javascript program that allows users to interact with the ChatGPT AI using their voice, rather than just by typing. 
 - [liboai](https://github.com/D7EAD/liboai) - A C++17 library to access the entire OpenAI API.
 - [TalkGPT](https://github.com/ShadovvBeast/TalkGPT) - TalkGPT allows you to easily interact with ChatGPT, the state-of-the-art language model developed by OpenAI. With TalkGPT, you can talk to ChatGPT naturally, with your voice, and it will answer with a voice as well!
+- [react-native-chatgpt](https://github.com/rgommezz/react-native-chatgpt) - A React Native wrapper around ChatGPT to seamlessly integrate it with your applications. It handles authentication, streamed responses, and keeping track of conversations. 100% client-side.
 
 ## Apps
 
@@ -145,6 +147,10 @@
 - [shellgpt](https://github.com/kpatronas/shellgpt) - Query chatgpt from your shell.
 - [Houston](https://github.com/npgrosser/Houston) - An AI Assistant and Script Generator for your Terminal, which enables you to accomplish a wide range of tasks with simple, natural language instructions.
 - [gpt_cli](https://github.com/zawawiAI/gpt_cli) - This script allows you to use OpenAI in your CLIs tested on Linux terminal, Mac Terminal and Windows Command Prompt.
+- [AiShell](https://github.com/code-yeongyu/AiShell) - A simple Python code that connects to OpenAI's ChatGPT and executes the returned results.
+- [gpt-chatbot-cli](https://github.com/slithery0/gpt-chatbot-cli) - It's a very minimal cli prompt, where you can chat and keeping the conversation session momoriable by chatgpt.
+- [mindflow-cli](https://github.com/nollied/mindflow-cli) - Conversate with your code directly from the command line or Visual Studio Code. Powered by ChatGPT!
+- [ata](https://github.com/rikhuijzer/ata) - Ask the Terminal Anything (ATA): OpenAI GPT in the terminal.
 
 ## Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
