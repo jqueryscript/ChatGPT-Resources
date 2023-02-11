@@ -140,6 +140,7 @@
 - [AskAI](https://github.com/bodhichristian/AskAI) - AskAI provides an approachable, native to iOS experience for interfacing with ChatGPT, and saving chats for later. It's written with almost entirely SwiftUI, and uses MVVM architecture. Chat engine images generated with Midjourney.
 - [chatgpt-resume-builder](https://github.com/ofikodar/chatgpt-resume-builder) - A Resume Builder with OpenAI ChatGPT
 - [ChatGPT-Flutter-AIChatBot](https://github.com/iampawan/ChatGPT-Flutter-AIChatBot) - A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language model.
+- [ChatGPT](https://github.com/wieslawsoltes/ChatGPT) - A ChatGPT C# client for graphical user interface.
 
 ## CLI
 
@@ -188,3 +189,4 @@
 - [chatgpt-go](https://github.com/chatgp/chatgpt-go) - Chatgpt sdk writen by golang.
 - [chatgpt-github-actions](https://github.com/cirolini/chatgpt-github-actions) - This project aims to automate code review using the ChatGPT language model. It integrates with Github Actions, and upon receiving a Pull Request, it automatically sends each code review to ChatGPT for an explanation.
 - [voice_chatgpt](https://github.com/nickbild/voice_chatgpt) - VoiceGPT is a voice assistant that leverages the powerful ChatGPT chatbot to answer your questions. You speak the requests, and VoiceGPT responds with realistic, synthesized speech.
+- [OpenAI-Checker](https://github.com/missuo/OpenAI-Checker) - Used to check if your IP can access OpenAI services.
