@@ -32,6 +32,8 @@
 - [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) - A simple light-weight library that wraps ChatGPT API completions. Additions to support images and other beta features are in progress.
 - [ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server) - API server for ChatGPT.
 - [ChatGPTSwift](https://github.com/alfianlosari/ChatGPTSwift) - Access ChatGPT API using Swift.
+- [chatapi-single](https://github.com/bytemate/chatapi-single) - Simple and powerful ChatGPT-API-Server.
+- [EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat.
 
 ## Browser Extensions
 
@@ -62,6 +64,7 @@
 - [chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
 - [chatgpt-soliloquy](https://github.com/yetone/chatgpt-soliloquy) - A Chrome extension that allows ChatGPT to engage in a conversation with itself.
 - [chatgpt-review-rebuttal-extension](https://github.com/LinXueyuanStdio/chatgpt-review-rebuttal-extension) - A browser extension for generating reviews and rebuttals in openreview, powered by ChatGPT.
+- [bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Bing ChatGPT on Chrome and Firefox.
 
 ## Other Externsions.
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT.
@@ -115,6 +118,8 @@
 - [Hephaestus](https://github.com/Suyash-Purwar/Hephaestus) - An AI powered telegram bot developed using OpenAI's ChatGPT & Dall-E API.
 - [Telegram Chatbot using OpenAI](https://github.com/Eloise1988/OPENAI) - This is a python script for a Telegram chatbot that uses the OpenAI API to generate responses to user input.
 - [chatbot-telegram](https://github.com/Ciyou/chatbot-telegram) - Yet another telegram ChatGPT bot which allows you to setup and run your bot with one simple command. 
+- [GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - ChatGPT and DALLE implementation as a telegram bot.
+- [chatgpt-bot-nodejs](https://github.com/monokaijs/chatgpt-bot-nodejs) - ChatGPT Bot with NodeJs.
 
 ## Libraries
 
@@ -141,6 +146,10 @@
 - [chatgpt-resume-builder](https://github.com/ofikodar/chatgpt-resume-builder) - A Resume Builder with OpenAI ChatGPT
 - [ChatGPT-Flutter-AIChatBot](https://github.com/iampawan/ChatGPT-Flutter-AIChatBot) - A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language model.
 - [ChatGPT](https://github.com/wieslawsoltes/ChatGPT) - A ChatGPT C# client for graphical user interface.
+- [widget](https://github.com/askclippyai/widget) - An AI assistant for your company's docs.
+- [ChatGPTAndroid](https://github.com/nohjunh/ChatGPTAndroid) - OpenAI ChatGPT for Android.
+- [chatgpt-voice-assistant](https://github.com/fabioo29/chatgpt-voice-assistant) - A voice assistant powered by OpenAI's ChatGPT language model, currently available in six languages.
+- [CoverGPT](https://github.com/mahfoozm/CoverGPT) - Generate a personalized & formatted cover letter for a given job position utilizing your resume.
 
 ## CLI
 
@@ -163,6 +172,7 @@
 - [mindflow-cli](https://github.com/nollied/mindflow-cli) - Conversate with your code directly from the command line or Visual Studio Code. Powered by ChatGPT!
 - [ata](https://github.com/rikhuijzer/ata) - Ask the Terminal Anything (ATA): OpenAI GPT in the terminal.
 - [openai-chatgpt](https://github.com/gmpetrov/openai-chatgpt) - Use ChatGPT from the terminal.
+- [chatgpt](https://github.com/verdverm/chatgpt) - CLI application for working with ChatGPT. Interactive or file based session with context and moods.
 
 ## Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
@@ -172,6 +182,7 @@
 - [ChatGPT-Prompts](https://github.com/PrathamKumar14/ChatGPT-Prompts) - AI is taking over slowly. Here are some use ChatGPT/API prompts that help you unlock 100% of your productivity.
 - [chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) - A collection of 140+ amazing and useful prompts for GPT-3
 - [ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - Guide and framework for creating ChatGPT3 Prompts.
+- [gpt-jailbreaks](https://github.com/malaya-zemlya/gpt-jailbreaks) - A repository of methods of bypassing GPT and ChatGPT content filters.
 
 ## Misc
 - [chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT.
@@ -190,3 +201,4 @@
 - [chatgpt-github-actions](https://github.com/cirolini/chatgpt-github-actions) - This project aims to automate code review using the ChatGPT language model. It integrates with Github Actions, and upon receiving a Pull Request, it automatically sends each code review to ChatGPT for an explanation.
 - [voice_chatgpt](https://github.com/nickbild/voice_chatgpt) - VoiceGPT is a voice assistant that leverages the powerful ChatGPT chatbot to answer your questions. You speak the requests, and VoiceGPT responds with realistic, synthesized speech.
 - [OpenAI-Checker](https://github.com/missuo/OpenAI-Checker) - Used to check if your IP can access OpenAI services.
+- [ChatGPT-Proxy](https://github.com/acheong08/ChatGPT-Proxy) - Forward requests and inject CloudFlare cookies
