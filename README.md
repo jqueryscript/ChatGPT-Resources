@@ -65,6 +65,8 @@
 - [chatgpt-soliloquy](https://github.com/yetone/chatgpt-soliloquy) - A Chrome extension that allows ChatGPT to engage in a conversation with itself.
 - [chatgpt-review-rebuttal-extension](https://github.com/LinXueyuanStdio/chatgpt-review-rebuttal-extension) - A browser extension for generating reviews and rebuttals in openreview, powered by ChatGPT.
 - [bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Bing ChatGPT on Chrome and Firefox.
+- [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - A browser extension to display ChatGPT Summary search results alongside Google results.
+- [chatgpt-review-rebuttal-extension](https://github.com/LinXueyuanStdio/chatgpt-review-rebuttal-extension) - A browser extension for generating reviews and rebuttals in openreview, powered by ChatGPT.
 
 ## Other Externsions.
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT.
@@ -120,6 +122,8 @@
 - [chatbot-telegram](https://github.com/Ciyou/chatbot-telegram) - Yet another telegram ChatGPT bot which allows you to setup and run your bot with one simple command. 
 - [GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - ChatGPT and DALLE implementation as a telegram bot.
 - [chatgpt-bot-nodejs](https://github.com/monokaijs/chatgpt-bot-nodejs) - ChatGPT Bot with NodeJs.
+- [GPT-Discord-Bot](https://github.com/iTzArshia/GPT-Discord-Bot) - Example Discord bot written in JavaScript that uses `text-davinci-003`, `Dall.E 2`, and `text-moderation-004` models with many features!
+- [chatgpt-bot](https://github.com/Swothh/chatgpt-bot) - Discord bot that interacts with the unofficial ChatGPT API.
 
 ## Libraries
 
@@ -150,6 +154,7 @@
 - [ChatGPTAndroid](https://github.com/nohjunh/ChatGPTAndroid) - OpenAI ChatGPT for Android.
 - [chatgpt-voice-assistant](https://github.com/fabioo29/chatgpt-voice-assistant) - A voice assistant powered by OpenAI's ChatGPT language model, currently available in six languages.
 - [CoverGPT](https://github.com/mahfoozm/CoverGPT) - Generate a personalized & formatted cover letter for a given job position utilizing your resume.
+- [chatgpt-mobile](https://github.com/nezort11/chatgpt-mobile) - ChatGPT mobile application bulit using React Native, Expo & Webview.
 
 ## CLI
 
@@ -173,6 +178,8 @@
 - [ata](https://github.com/rikhuijzer/ata) - Ask the Terminal Anything (ATA): OpenAI GPT in the terminal.
 - [openai-chatgpt](https://github.com/gmpetrov/openai-chatgpt) - Use ChatGPT from the terminal.
 - [chatgpt](https://github.com/verdverm/chatgpt) - CLI application for working with ChatGPT. Interactive or file based session with context and moods.
+- [DirectAI](https://github.com/ustayready/DirectAI) - ChatGPT queries via OpenAI API in your terminal.
+- [aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI.
 
 ## Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
