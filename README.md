@@ -124,6 +124,7 @@
 - [chatgpt-bot-nodejs](https://github.com/monokaijs/chatgpt-bot-nodejs) - ChatGPT Bot with NodeJs.
 - [GPT-Discord-Bot](https://github.com/iTzArshia/GPT-Discord-Bot) - Example Discord bot written in JavaScript that uses `text-davinci-003`, `Dall.E 2`, and `text-moderation-004` models with many features!
 - [chatgpt-bot](https://github.com/Swothh/chatgpt-bot) - Discord bot that interacts with the unofficial ChatGPT API.
+- [ChatGPT-DiscordBot](https://github.com/JasonInd/ChatGPT-DiscordBot) - An up to date Discord Bot that generates replies using chatGPT.
 
 ## Libraries
 
