@@ -34,6 +34,7 @@
 - [ChatGPTSwift](https://github.com/alfianlosari/ChatGPTSwift) - Access ChatGPT API using Swift.
 - [chatapi-single](https://github.com/bytemate/chatapi-single) - Simple and powerful ChatGPT-API-Server.
 - [EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat.
+- [OpenAI-DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet) - A fast lightweight DotNet library for OpenAI API.
 
 ## Browser Extensions
 
@@ -67,6 +68,7 @@
 - [bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Bing ChatGPT on Chrome and Firefox.
 - [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - A browser extension to display ChatGPT Summary search results alongside Google results.
 - [chatgpt-review-rebuttal-extension](https://github.com/LinXueyuanStdio/chatgpt-review-rebuttal-extension) - A browser extension for generating reviews and rebuttals in openreview, powered by ChatGPT.
+- [gpt2markdown](https://github.com/0xreeko/gpt2markdown) - A browser extension that exports your ChatGPT conversations to Markdown format.
 
 ## Other Externsions.
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT.
@@ -125,6 +127,8 @@
 - [GPT-Discord-Bot](https://github.com/iTzArshia/GPT-Discord-Bot) - Example Discord bot written in JavaScript that uses `text-davinci-003`, `Dall.E 2`, and `text-moderation-004` models with many features!
 - [chatgpt-bot](https://github.com/Swothh/chatgpt-bot) - Discord bot that interacts with the unofficial ChatGPT API.
 - [ChatGPT-DiscordBot](https://github.com/JasonInd/ChatGPT-DiscordBot) - An up to date Discord Bot that generates replies using chatGPT.
+- [askrella](https://github.com/askrella/whatsapp-chatgpt) - Whatsapp bot that uses OpenAI's GPT & DALLE to respond to user inputs.
+- [Whatsapp_Instagram_Messanger_ChatGPT_OpenAI](https://github.com/JoseHenriqueSiqueira/Whatsapp_Instagram_Messanger_ChatGPT_OpenAI) - This repository showcases a ChatBot integrated with WhatsApp, using OpenAI API (such as ChatGPT).
 
 ## Libraries
 
@@ -191,6 +195,8 @@
 - [chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) - A collection of 140+ amazing and useful prompts for GPT-3
 - [ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - Guide and framework for creating ChatGPT3 Prompts.
 - [gpt-jailbreaks](https://github.com/malaya-zemlya/gpt-jailbreaks) - A repository of methods of bypassing GPT and ChatGPT content filters.
+- [ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of 60 useful data science prompts for ChatGPT
+- [Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts) - A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
 
 ## Misc
 - [chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT.
