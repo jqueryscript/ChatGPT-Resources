@@ -160,6 +160,8 @@
 - [chatgpt-voice-assistant](https://github.com/fabioo29/chatgpt-voice-assistant) - A voice assistant powered by OpenAI's ChatGPT language model, currently available in six languages.
 - [CoverGPT](https://github.com/mahfoozm/CoverGPT) - Generate a personalized & formatted cover letter for a given job position utilizing your resume.
 - [chatgpt-mobile](https://github.com/nezort11/chatgpt-mobile) - ChatGPT mobile application bulit using React Native, Expo & Webview.
+- [chat-gpt-enhanced](https://github.com/JesseKartabani/chat-gpt-enhanced) - ChatGPT but with more features.
+- [HeyChatGPT](https://github.com/ynagatomo/HeyChatGPT) - A minimal iOS app that interacts with ChatGPT by your voice.
 
 ## CLI
 
