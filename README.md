@@ -162,6 +162,8 @@
 - [chatgpt-mobile](https://github.com/nezort11/chatgpt-mobile) - ChatGPT mobile application bulit using React Native, Expo & Webview.
 - [chat-gpt-enhanced](https://github.com/JesseKartabani/chat-gpt-enhanced) - ChatGPT but with more features.
 - [HeyChatGPT](https://github.com/ynagatomo/HeyChatGPT) - A minimal iOS app that interacts with ChatGPT by your voice.
+- [ChatGPT](https://github.com/orhanerday/ChatGPT) - ChatGPT clone is a simple web application powered by the OpenAI library and built with PHP. It allows users to chat with an AI language model that responds in real-time. Chat history is saved using cookies, and the project requires the use of an API key and enabled SQLite3.
+- [ChatGPT](https://github.com/nisabmohd/ChatGPT) - ChatGPT clone using openAI API.
 
 ## CLI
 
@@ -199,6 +201,7 @@
 - [gpt-jailbreaks](https://github.com/malaya-zemlya/gpt-jailbreaks) - A repository of methods of bypassing GPT and ChatGPT content filters.
 - [ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of 60 useful data science prompts for ChatGPT
 - [Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts) - A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
+- [promptlib](https://github.com/jmpaz/promptlib) - A collection of prompts and wrappers for ChatGPT & GPT-3.
 
 ## Misc
 - [chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT.
