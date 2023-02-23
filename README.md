@@ -39,7 +39,6 @@
 ## Browser Extensions
 
 - [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT.
-- [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results.
 - [ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) - Chrome Extension that Integrates ChatGPT (Unofficial) into Google Search.
 - [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
 - [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) - A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.
@@ -129,6 +128,7 @@
 - [ChatGPT-DiscordBot](https://github.com/JasonInd/ChatGPT-DiscordBot) - An up to date Discord Bot that generates replies using chatGPT.
 - [askrella](https://github.com/askrella/whatsapp-chatgpt) - Whatsapp bot that uses OpenAI's GPT & DALLE to respond to user inputs.
 - [Whatsapp_Instagram_Messanger_ChatGPT_OpenAI](https://github.com/JoseHenriqueSiqueira/Whatsapp_Instagram_Messanger_ChatGPT_OpenAI) - This repository showcases a ChatBot integrated with WhatsApp, using OpenAI API (such as ChatGPT).
+- [openai-whatsapp-chatbot](https://github.com/simonsanvil/openai-whatsapp-chatbot) - A chatbot app that uses OpenAI's GPT3 and DALL-E to reply to incoming messages from WhatsApp and generate images.
 
 ## Libraries
 
@@ -164,6 +164,7 @@
 - [HeyChatGPT](https://github.com/ynagatomo/HeyChatGPT) - A minimal iOS app that interacts with ChatGPT by your voice.
 - [ChatGPT](https://github.com/orhanerday/ChatGPT) - ChatGPT clone is a simple web application powered by the OpenAI library and built with PHP. It allows users to chat with an AI language model that responds in real-time. Chat history is saved using cookies, and the project requires the use of an API key and enabled SQLite3.
 - [ChatGPT](https://github.com/nisabmohd/ChatGPT) - ChatGPT clone using openAI API.
+- [TrippingLettuce](https://github.com/TrippingLettuce/ChatGPT-Generated-Articles-to-WordPress) - AI generated WordPress articles, with images
 
 ## CLI
 
