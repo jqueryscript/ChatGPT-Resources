@@ -11,6 +11,18 @@
   Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
 </p>
 
+## Table Of Contents
+
+- [API](#api)
+- [Browser Extensions](#browser-extensions)
+- [Other Externsions.](#other-externsions)
+- [Bots](#bots)
+- [Libraries](#libraries)
+- [Apps](#apps)
+- [CLI](#cli)
+- [Prompts](#prompts)
+- [Misc](#misc)
+
 ## API
 
 - [ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
