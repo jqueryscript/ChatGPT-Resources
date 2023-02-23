@@ -15,7 +15,7 @@
 
 - [API](#api)
 - [Browser Extensions](#browser-extensions)
-- [Other Externsions.](#other-externsions)
+- [Other Externsions](#other-externsions)
 - [Bots](#bots)
 - [Libraries](#libraries)
 - [Apps](#apps)
