@@ -141,6 +141,7 @@
 - [askrella](https://github.com/askrella/whatsapp-chatgpt) - Whatsapp bot that uses OpenAI's GPT & DALLE to respond to user inputs.
 - [Whatsapp_Instagram_Messanger_ChatGPT_OpenAI](https://github.com/JoseHenriqueSiqueira/Whatsapp_Instagram_Messanger_ChatGPT_OpenAI) - This repository showcases a ChatBot integrated with WhatsApp, using OpenAI API (such as ChatGPT).
 - [openai-whatsapp-chatbot](https://github.com/simonsanvil/openai-whatsapp-chatbot) - A chatbot app that uses OpenAI's GPT3 and DALL-E to reply to incoming messages from WhatsApp and generate images.
+- [ChatGPT-Line-Bot](https://github.com/TheExplainthis/ChatGPT-Line-Bot) - This is a repository that allows you to integrate ChatGPT into Line.
 
 ## Libraries
 
