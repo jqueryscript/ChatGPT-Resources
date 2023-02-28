@@ -47,6 +47,7 @@
 - [chatapi-single](https://github.com/bytemate/chatapi-single) - Simple and powerful ChatGPT-API-Server.
 - [EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat.
 - [OpenAI-DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet) - A fast lightweight DotNet library for OpenAI API.
+- [chatgpt-api-server](https://github.com/Lukium/chatgpt-api-server) - ChatGPT Web API server based on Flask that can respond both via browser through Flask Forms and directly via POST/GET Requests.
 
 ## Browser Extensions
 
@@ -153,6 +154,7 @@
 - [TalkGPT](https://github.com/ShadovvBeast/TalkGPT) - TalkGPT allows you to easily interact with ChatGPT, the state-of-the-art language model developed by OpenAI. With TalkGPT, you can talk to ChatGPT naturally, with your voice, and it will answer with a voice as well!
 - [react-native-chatgpt](https://github.com/rgommezz/react-native-chatgpt) - A React Native wrapper around ChatGPT to seamlessly integrate it with your applications. It handles authentication, streamed responses, and keeping track of conversations. 100% client-side.
 - [ChatGPT-Official](https://github.com/PawanOsman/ChatGPT-Official) - A simple Node.js module for creating ChatGPT using OpenAI official API.
+- [Sekiryu](https://github.com/20urc3/Sekiryu) - A python script that performs automatic decompilation and analysis of binary files with your prefered Decompiler and ChatGPT
 
 ## Apps
 
