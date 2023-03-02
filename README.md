@@ -48,6 +48,8 @@
 - [EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat.
 - [OpenAI-DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet) - A fast lightweight DotNet library for OpenAI API.
 - [chatgpt-api-server](https://github.com/Lukium/chatgpt-api-server) - ChatGPT Web API server based on Flask that can respond both via browser through Flask Forms and directly via POST/GET Requests.
+- [chatgpt-web-api](https://github.com/swordintent/chatgpt-web-api) - A Java Version ChatGPT SDK.
+- [ChatGPT-PHP](https://github.com/HaoZi-Team/ChatGPT-PHP) - Real ChatGPT PHP SDK (Not GPT-3).
 
 ## Browser Extensions
 
