@@ -50,6 +50,9 @@
 - [chatgpt-api-server](https://github.com/Lukium/chatgpt-api-server) - ChatGPT Web API server based on Flask that can respond both via browser through Flask Forms and directly via POST/GET Requests.
 - [chatgpt-web-api](https://github.com/swordintent/chatgpt-web-api) - A Java Version ChatGPT SDK.
 - [ChatGPT-PHP](https://github.com/HaoZi-Team/ChatGPT-PHP) - Real ChatGPT PHP SDK (Not GPT-3).
+- [ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with ChatGPT and Whisper...
+- [openai-kotlin](https://github.com/aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
+- [ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
 
 ## Browser Extensions
 
@@ -145,6 +148,9 @@
 - [Whatsapp_Instagram_Messanger_ChatGPT_OpenAI](https://github.com/JoseHenriqueSiqueira/Whatsapp_Instagram_Messanger_ChatGPT_OpenAI) - This repository showcases a ChatBot integrated with WhatsApp, using OpenAI API (such as ChatGPT).
 - [openai-whatsapp-chatbot](https://github.com/simonsanvil/openai-whatsapp-chatbot) - A chatbot app that uses OpenAI's GPT3 and DALL-E to reply to incoming messages from WhatsApp and generate images.
 - [ChatGPT-Line-Bot](https://github.com/TheExplainthis/ChatGPT-Line-Bot) - This is a repository that allows you to integrate ChatGPT into Line.
+- [TelegramGPT](https://github.com/zhuorantan/TelegramGPT) - A minimum ChatGPT Telegram Bot with conversation history.
+- [slack-chatgpt](https://github.com/shapehq/slack-chatgpt) - Integrate ChatGPT into Slack using Cloudflare Workers.
+- [chatgpt-telegram-bot](https://github.com/flynnoct/chatgpt-telegram-bot) - Telegram bot implemented by OFFICIAL OpenAI ChatGPT API (gpt-3.5-turbo-0301, released on 2023-03-01).
 
 ## Libraries
 
@@ -182,9 +188,9 @@
 - [ChatGPT](https://github.com/orhanerday/ChatGPT) - ChatGPT clone is a simple web application powered by the OpenAI library and built with PHP. It allows users to chat with an AI language model that responds in real-time. Chat history is saved using cookies, and the project requires the use of an API key and enabled SQLite3.
 - [ChatGPT](https://github.com/nisabmohd/ChatGPT) - ChatGPT clone using openAI API.
 - [TrippingLettuce](https://github.com/TrippingLettuce/ChatGPT-Generated-Articles-to-WordPress) - AI generated WordPress articles, with images
+- [chatgpt_please_improve_my_paper_writing](https://github.com/ashawkey/chatgpt_please_improve_my_paper_writing) - A thin wrapper of chatgpt with a gradio interface for improving academic writing.
 
 ## CLI
-
 - [askai](https://github.com/yudax42/askai) - A command-line interface for OpenAI ChatGPT.
 - [chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI.
 - [chatgpt](https://github.com/kkdai/chatgpt) - ChatGPT Console client in Golang.
@@ -207,6 +213,10 @@
 - [chatgpt](https://github.com/verdverm/chatgpt) - CLI application for working with ChatGPT. Interactive or file based session with context and moods.
 - [DirectAI](https://github.com/ustayready/DirectAI) - ChatGPT queries via OpenAI API in your terminal.
 - [aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI.
+- [command_line_chatgpt](https://github.com/atomic14/command_line_chatgpt) - A command line chat bot using the ChatGPT API from OpenAI.
+- [gptcli](https://github.com/evilpan/gptcli) - ChatGPT in command line with gpt-3.5-turbo api.
+- [chatgpt](https://github.com/j178/chatgpt) - Cli for ChatGPT.
+- [shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
 
 ## Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
