@@ -151,6 +151,7 @@
 - [TelegramGPT](https://github.com/zhuorantan/TelegramGPT) - A minimum ChatGPT Telegram Bot with conversation history.
 - [slack-chatgpt](https://github.com/shapehq/slack-chatgpt) - Integrate ChatGPT into Slack using Cloudflare Workers.
 - [chatgpt-telegram-bot](https://github.com/flynnoct/chatgpt-telegram-bot) - Telegram bot implemented by OFFICIAL OpenAI ChatGPT API (gpt-3.5-turbo-0301, released on 2023-03-01).
+- [chatgpt-telegram-bot](https://github.com/shinyypig/chatgpt-telegram-bot) - OpenAI chatbot for Telegram using GPT-3.5. 
 
 ## Libraries
 
@@ -217,6 +218,8 @@
 - [gptcli](https://github.com/evilpan/gptcli) - ChatGPT in command line with gpt-3.5-turbo api.
 - [chatgpt](https://github.com/j178/chatgpt) - Cli for ChatGPT.
 - [shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
+- [aichat](https://github.com/sigoden/aichat) - Chat with ChatGPT-3.5 in the terminal.
+- [command-ai](https://github.com/amachino/command-ai) - AI chatbot in your terminal, powered by OpenAI API.
 
 ## Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
@@ -230,6 +233,7 @@
 - [ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of 60 useful data science prompts for ChatGPT
 - [Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts) - A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
 - [promptlib](https://github.com/jmpaz/promptlib) - A collection of prompts and wrappers for ChatGPT & GPT-3.
+- [ChatGPT-MidJourney-prompt](https://github.com/awekrx/ChatGPT-MidJourney-prompt) - A ChatGPT based prompt generation model for MidJorney. 
 
 ## Misc
 - [chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT.
