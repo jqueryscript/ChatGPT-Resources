@@ -53,6 +53,8 @@
 - [ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with ChatGPT and Whisper...
 - [openai-kotlin](https://github.com/aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
 - [ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
+- [Simple-ChatGPT-API-Desktop](https://github.com/Cranot/Simple-ChatGPT-API-Desktop) - Simple ChatGPT API for Desktop.
+- [ChatGPTKit](https://github.com/heysaik/ChatGPTKit) - A Swift Package to communicate with the ChatGPT API from OpenAI.
 
 ## Browser Extensions
 
@@ -86,6 +88,7 @@
 - [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - A browser extension to display ChatGPT Summary search results alongside Google results.
 - [chatgpt-review-rebuttal-extension](https://github.com/LinXueyuanStdio/chatgpt-review-rebuttal-extension) - A browser extension for generating reviews and rebuttals in openreview, powered by ChatGPT.
 - [gpt2markdown](https://github.com/0xreeko/gpt2markdown) - A browser extension that exports your ChatGPT conversations to Markdown format.
+- [writely](https://github.com/anc95/writely) - An AI powered chrome extension improving your writing and reading.
 
 ## Other Externsions.
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT.
@@ -151,7 +154,8 @@
 - [TelegramGPT](https://github.com/zhuorantan/TelegramGPT) - A minimum ChatGPT Telegram Bot with conversation history.
 - [slack-chatgpt](https://github.com/shapehq/slack-chatgpt) - Integrate ChatGPT into Slack using Cloudflare Workers.
 - [chatgpt-telegram-bot](https://github.com/flynnoct/chatgpt-telegram-bot) - Telegram bot implemented by OFFICIAL OpenAI ChatGPT API (gpt-3.5-turbo-0301, released on 2023-03-01).
-- [chatgpt-telegram-bot](https://github.com/shinyypig/chatgpt-telegram-bot) - OpenAI chatbot for Telegram using GPT-3.5. 
+- [chatgpt-telegram-bot](https://github.com/shinyypig/chatgpt-telegram-bot) - OpenAI chatbot for Telegram using GPT-3.5.
+- [chatgpt-telegram-bot](https://github.com/leafduo/chatgpt-telegram-bot) - Run your own ChatGPT Telegram bot!
 
 ## Libraries
 
@@ -190,6 +194,7 @@
 - [ChatGPT](https://github.com/nisabmohd/ChatGPT) - ChatGPT clone using openAI API.
 - [TrippingLettuce](https://github.com/TrippingLettuce/ChatGPT-Generated-Articles-to-WordPress) - AI generated WordPress articles, with images
 - [chatgpt_please_improve_my_paper_writing](https://github.com/ashawkey/chatgpt_please_improve_my_paper_writing) - A thin wrapper of chatgpt with a gradio interface for improving academic writing.
+- [ChatGPTFreeApp](https://github.com/ztjhz/ChatGPTFreeApp) - An amazing open-source web app that allows you to play with OpenAI's ChatGPT API for free!
 
 ## CLI
 - [askai](https://github.com/yudax42/askai) - A command-line interface for OpenAI ChatGPT.
