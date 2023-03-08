@@ -55,6 +55,7 @@
 - [ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
 - [Simple-ChatGPT-API-Desktop](https://github.com/Cranot/Simple-ChatGPT-API-Desktop) - Simple ChatGPT API for Desktop.
 - [ChatGPTKit](https://github.com/heysaik/ChatGPTKit) - A Swift Package to communicate with the ChatGPT API from OpenAI.
+- [CallGPT](https://github.com/dminGod/CallGPT) - A dead simple way to call the ChatGPT API from your machine.
 
 ## Browser Extensions
 
@@ -201,6 +202,7 @@
 - [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - Interact with OpenAI's ChatGPT right from your command bar.
 - [AIShader](https://github.com/keijiro/AIShader) - ChatGPT-powered shader generator for Unity.
 - [ChatGPT](https://github.com/chenxi92/ChatGPT) - A macOS and iOS App to communicate with ChatGPT.
+- [chatty](https://github.com/huntabyte/chatty) - A chatbot application build with OpenAI's ChatGPT API.
 
 ## CLI
 - [askai](https://github.com/yudax42/askai) - A command-line interface for OpenAI ChatGPT.
