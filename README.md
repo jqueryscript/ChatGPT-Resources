@@ -91,6 +91,7 @@
 - [gpt2markdown](https://github.com/0xreeko/gpt2markdown) - A browser extension that exports your ChatGPT conversations to Markdown format.
 - [writely](https://github.com/anc95/writely) - An AI powered chrome extension improving your writing and reading.
 - [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons.
+- [sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends.
 
 ## Other Externsions.
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT.
@@ -203,6 +204,7 @@
 - [AIShader](https://github.com/keijiro/AIShader) - ChatGPT-powered shader generator for Unity.
 - [ChatGPT](https://github.com/chenxi92/ChatGPT) - A macOS and iOS App to communicate with ChatGPT.
 - [chatty](https://github.com/huntabyte/chatty) - A chatbot application build with OpenAI's ChatGPT API.
+- [chatbox](https://github.com/Bin-Huang/chatbox) - A cross-platform desktop client for OpenAI API, also a prompt debugging and management tool.
 
 ## CLI
 - [askai](https://github.com/yudax42/askai) - A command-line interface for OpenAI ChatGPT.
@@ -236,6 +238,9 @@
 - [loz](https://github.com/joone/loz) - A command-line interface tool based on ChatGPT that allows Unix pipes to be used with other Unix tools.
 - [chatgpt_cli](https://github.com/mansimov/chatgpt_cli) - Lightweight wrapper of the official ChatGPT API in your terminal
 - [gogpt](https://github.com/Nemoden/gogpt) - ChatGPT. In your terminal!
+- [PowerGPT](https://github.com/ouromoros/PowerGPT) - Do anything in Windows PowerShell using natural language
+- [ai.py](https://github.com/reorx/ai.py) - Single-file Python script that helps you get answers from ChatGPT API in the command line.
+- [heygpt](https://github.com/fuyufjh/heygpt) - A simple common-line interface for ChatGPT API.
 
 ## Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
