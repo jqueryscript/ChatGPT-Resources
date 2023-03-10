@@ -92,6 +92,7 @@
 - [writely](https://github.com/anc95/writely) - An AI powered chrome extension improving your writing and reading.
 - [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons.
 - [sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends.
+- [ChatGPT-History-Downloader](https://github.com/Luo-Yihang/ChatGPT-History-Downloader) - A Google chrome extension to help download chat history with OpenAI ChatGPT
 
 ## Other Externsions.
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT.
@@ -205,6 +206,7 @@
 - [ChatGPT](https://github.com/chenxi92/ChatGPT) - A macOS and iOS App to communicate with ChatGPT.
 - [chatty](https://github.com/huntabyte/chatty) - A chatbot application build with OpenAI's ChatGPT API.
 - [chatbox](https://github.com/Bin-Huang/chatbox) - A cross-platform desktop client for OpenAI API, also a prompt debugging and management tool.
+- [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Translate your locale json files with AI assistance.
 
 ## CLI
 - [askai](https://github.com/yudax42/askai) - A command-line interface for OpenAI ChatGPT.
