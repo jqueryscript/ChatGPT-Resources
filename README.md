@@ -162,6 +162,7 @@
 - [chatgpt-telegram-bot](https://github.com/leafduo/chatgpt-telegram-bot) - Run your own ChatGPT Telegram bot!
 - [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate ChatGPT into your own discord bot.
 - [SirChatalot](https://github.com/sazonovanton/SirChatalot) - A Telegram bot powered by new OpenAI API for ChatGPT and Whisper.
+- [discourse-chatbot](https://github.com/merefield/discourse-chatbot) - A cloud chatbot adaptor for Discourse, currently supporting OpenAI.
 
 ## Libraries
 
@@ -207,6 +208,8 @@
 - [chatty](https://github.com/huntabyte/chatty) - A chatbot application build with OpenAI's ChatGPT API.
 - [chatbox](https://github.com/Bin-Huang/chatbox) - A cross-platform desktop client for OpenAI API, also a prompt debugging and management tool.
 - [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Translate your locale json files with AI assistance.
+- [ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summary the Arxiv papers.
+- [ohmygpt](https://github.com/noobnooc/ohmygpt) - Deploy your ChatGPT-based web app in minutes.
 
 ## CLI
 - [askai](https://github.com/yudax42/askai) - A command-line interface for OpenAI ChatGPT.
@@ -243,6 +246,7 @@
 - [PowerGPT](https://github.com/ouromoros/PowerGPT) - Do anything in Windows PowerShell using natural language
 - [ai.py](https://github.com/reorx/ai.py) - Single-file Python script that helps you get answers from ChatGPT API in the command line.
 - [heygpt](https://github.com/fuyufjh/heygpt) - A simple common-line interface for ChatGPT API.
+- [linux-command-gpt](https://github.com/asrul10/linux-command-gpt) - Get Linux commands in natural language with the power of ChatGPT.
 
 ## Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
