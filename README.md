@@ -163,6 +163,7 @@
 - [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate ChatGPT into your own discord bot.
 - [SirChatalot](https://github.com/sazonovanton/SirChatalot) - A Telegram bot powered by new OpenAI API for ChatGPT and Whisper.
 - [discourse-chatbot](https://github.com/merefield/discourse-chatbot) - A cloud chatbot adaptor for Discourse, currently supporting OpenAI.
+- [TeleGPT](https://github.com/IcyStudio/TeleGPT) - An out-of-box ChatGPT bot for Telegram.
 
 ## Libraries
 
