@@ -211,6 +211,7 @@
 - [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Translate your locale json files with AI assistance.
 - [ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summary the Arxiv papers.
 - [ohmygpt](https://github.com/noobnooc/ohmygpt) - Deploy your ChatGPT-based web app in minutes.
+- [ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) - This repository provides a simple interface that utilizes the gpt-3.5-turbo model to read academic papers in PDF format locally. You can use it to help you summarize papers, create presentation slides, or simply fulfill tasks assigned by your supervisor.
 
 ## CLI
 - [askai](https://github.com/yudax42/askai) - A command-line interface for OpenAI ChatGPT.
@@ -248,6 +249,8 @@
 - [ai.py](https://github.com/reorx/ai.py) - Single-file Python script that helps you get answers from ChatGPT API in the command line.
 - [heygpt](https://github.com/fuyufjh/heygpt) - A simple common-line interface for ChatGPT API.
 - [linux-command-gpt](https://github.com/asrul10/linux-command-gpt) - Get Linux commands in natural language with the power of ChatGPT.
+- [CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages for you using ChatGPT AI (gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
+
 
 ## Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
