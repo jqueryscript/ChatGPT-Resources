@@ -253,7 +253,7 @@
 - [linux-command-gpt](https://github.com/asrul10/linux-command-gpt) - Get Linux commands in natural language with the power of ChatGPT.
 - [CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages for you using ChatGPT AI (gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
 - [ChatGPTerminator](https://github.com/AineeJames/ChatGPTerminator) - ChatGPT in the terminal!
-
+- [AskGPT](https://github.com/praeclarum/AskGPT) - Ask ChatGPT questions from the command line.
 
 ## Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
