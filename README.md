@@ -176,6 +176,7 @@
 - [react-native-chatgpt](https://github.com/rgommezz/react-native-chatgpt) - A React Native wrapper around ChatGPT to seamlessly integrate it with your applications. It handles authentication, streamed responses, and keeping track of conversations. 100% client-side.
 - [ChatGPT-Official](https://github.com/PawanOsman/ChatGPT-Official) - A simple Node.js module for creating ChatGPT using OpenAI official API.
 - [Sekiryu](https://github.com/20urc3/Sekiryu) - A python script that performs automatic decompilation and analysis of binary files with your prefered Decompiler and ChatGPT
+- [Smarty-GPT](https://github.com/citiususc/Smarty-GPT) - Library of prompts/contexts that allows to enhance GPT models responses without the involvement of the user
 
 ## Apps
 
@@ -214,6 +215,7 @@
 - [ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) - This repository provides a simple interface that utilizes the gpt-3.5-turbo model to read academic papers in PDF format locally. You can use it to help you summarize papers, create presentation slides, or simply fulfill tasks assigned by your supervisor.
 - [FreeChatGPT](https://github.com/ztjhz/FreeChatGPT) - An amazing open-source web app that allows you to play with OpenAI's ChatGPT API for free!
 - [GPT-google-sheets](https://github.com/MoritzLaurer/GPT-google-sheets) - Code and documentation for running ChatGPT in google sheets without any coding knowledge. Transform unstructured text to structured data.
+- [Chatgpt-document-pdf-based-chatbot-pdf-summarizer](https://github.com/muratali016/Chatgpt-document-pdf-based-chatbot-pdf-summarizer) - This is a text summarization app that uses OpenAI's GPT-3 language model to generate a summary of a given text.
 
 ## CLI
 - [askai](https://github.com/yudax42/askai) - A command-line interface for OpenAI ChatGPT.
@@ -288,3 +290,4 @@
 - [voice_chatgpt](https://github.com/nickbild/voice_chatgpt) - VoiceGPT is a voice assistant that leverages the powerful ChatGPT chatbot to answer your questions. You speak the requests, and VoiceGPT responds with realistic, synthesized speech.
 - [OpenAI-Checker](https://github.com/missuo/OpenAI-Checker) - Used to check if your IP can access OpenAI services.
 - [ChatGPT-Proxy](https://github.com/acheong08/ChatGPT-Proxy) - Forward requests and inject CloudFlare cookies
+- [chatpad](https://github.com/deiucanta/chatpad) - Premium quality UI for ChatGPT
