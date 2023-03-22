@@ -19,9 +19,11 @@
 - [Bots](#bots)
 - [Libraries](#libraries)
 - [Apps](#apps)
+- [Integration](#integration)
 - [CLI](#cli)
 - [Prompts](#prompts)
 - [Misc](#misc)
+
 
 ## API
 
@@ -93,6 +95,7 @@
 - [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons.
 - [sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends.
 - [ChatGPT-History-Downloader](https://github.com/Luo-Yihang/ChatGPT-History-Downloader) - A Google chrome extension to help download chat history with OpenAI ChatGPT
+- [openai](https://github.com/anasfik/openai) - Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e..).
 
 ## Other Externsions.
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT.
@@ -107,6 +110,7 @@
 - [ExplainThisCode](https://github.com/evyatar9/ExplainThisCode) - A VSCode extension that uses the ChatGPT API to provide explanations for selected code.
 - [ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension) - ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
 - [ScribeAI](https://github.com/ajikan/ScribeAI) - ChatGPT extension for VSCode.
+- [chatgpt-helper](https://github.com/kiranvshah/chatgpt-helper) - A VS Code extension to quickly query OpenAI's ChatGPT from inside your editor.
 
 ## Bots
 
@@ -173,7 +177,6 @@
 - [talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) - A new javascript program that allows users to interact with the ChatGPT AI using their voice, rather than just by typing. 
 - [liboai](https://github.com/D7EAD/liboai) - A C++17 library to access the entire OpenAI API.
 - [TalkGPT](https://github.com/ShadovvBeast/TalkGPT) - TalkGPT allows you to easily interact with ChatGPT, the state-of-the-art language model developed by OpenAI. With TalkGPT, you can talk to ChatGPT naturally, with your voice, and it will answer with a voice as well!
-- [react-native-chatgpt](https://github.com/rgommezz/react-native-chatgpt) - A React Native wrapper around ChatGPT to seamlessly integrate it with your applications. It handles authentication, streamed responses, and keeping track of conversations. 100% client-side.
 - [ChatGPT-Official](https://github.com/PawanOsman/ChatGPT-Official) - A simple Node.js module for creating ChatGPT using OpenAI official API.
 - [Sekiryu](https://github.com/20urc3/Sekiryu) - A python script that performs automatic decompilation and analysis of binary files with your prefered Decompiler and ChatGPT
 - [Smarty-GPT](https://github.com/citiususc/Smarty-GPT) - Library of prompts/contexts that allows to enhance GPT models responses without the involvement of the user
@@ -185,7 +188,6 @@
 - [ChatGPT](https://github.com/lencx/ChatGPT) - ChatGPT Desktop Application.
 - [ChatGPT-Mac-MenuBar](https://github.com/KittenYang/ChatGPT-Mac-MenuBar) - Chat with OpenAI's ChatGPT in mac menu bar like a pro.
 - [ChatGPT_production](https://github.com/sorrge/ChatGPT_production) - Minesweeper game made with ChatGPT.
-- [Quest](https://github.com/farrael004/Quest) - This is a web app that integrates GPT-3 with google searches.
 - [chatgpt-clone](https://github.com/afizs/chatgpt-clone) - Build Your own ChatGPT with OpenAI API and Streamlit.
 - [ChatGPT-macOS](https://github.com/sourcelocation/ChatGPT-macOS) - Interact with ChatGPT from your macOS Menu Bar.
 - [AskAI](https://github.com/bodhichristian/AskAI) - AskAI provides an approachable, native to iOS experience for interfacing with ChatGPT, and saving chats for later. It's written with almost entirely SwiftUI, and uses MVVM architecture. Chat engine images generated with Midjourney.
@@ -216,6 +218,13 @@
 - [FreeChatGPT](https://github.com/ztjhz/FreeChatGPT) - An amazing open-source web app that allows you to play with OpenAI's ChatGPT API for free!
 - [GPT-google-sheets](https://github.com/MoritzLaurer/GPT-google-sheets) - Code and documentation for running ChatGPT in google sheets without any coding knowledge. Transform unstructured text to structured data.
 - [Chatgpt-document-pdf-based-chatbot-pdf-summarizer](https://github.com/muratali016/Chatgpt-document-pdf-based-chatbot-pdf-summarizer) - This is a text summarization app that uses OpenAI's GPT-3 language model to generate a summary of a given text.
+- [gerev](https://github.com/GerevAI/gerev) - ChatGPT search engine for workplaces.
+
+## Integration
+- [nuxt-chatgpt](https://github.com/SchnapsterDog/nuxt-chatgpt) - ChatGPT integration for Nuxt 3.
+- [ChatGptNet](https://github.com/marcominerva/ChatGptNet) - A ChatGPT integration library for .NET.
+- [react-native-chatgpt](https://github.com/rgommezz/react-native-chatgpt) - A React Native wrapper around ChatGPT to seamlessly integrate it with your applications. It handles authentication, streamed responses, and keeping track of conversations. 100% client-side.
+- [Quest](https://github.com/farrael004/Quest) - This is a web app that integrates GPT-3 with google searches.
 
 ## CLI
 - [askai](https://github.com/yudax42/askai) - A command-line interface for OpenAI ChatGPT.
