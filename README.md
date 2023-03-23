@@ -219,12 +219,19 @@
 - [GPT-google-sheets](https://github.com/MoritzLaurer/GPT-google-sheets) - Code and documentation for running ChatGPT in google sheets without any coding knowledge. Transform unstructured text to structured data.
 - [Chatgpt-document-pdf-based-chatbot-pdf-summarizer](https://github.com/muratali016/Chatgpt-document-pdf-based-chatbot-pdf-summarizer) - This is a text summarization app that uses OpenAI's GPT-3 language model to generate a summary of a given text.
 - [gerev](https://github.com/GerevAI/gerev) - ChatGPT search engine for workplaces.
+- [ChatGPTify](https://github.com/idilsulo/ChatGPTify) - Spotify playlist generator via ChatGPT.
+- [PlaticaBot](https://github.com/migueldeicaza/PlaticaBot) - A ChatGPT app for MacOS, iPhone and WatchOS.
+- [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs.
+- [jasper-alternative-gpt](https://github.com/yuvalsuede/jasper-alternative-gpt) - A Jasper alternative open source with ChatGPT
 
 ## Integration
 - [nuxt-chatgpt](https://github.com/SchnapsterDog/nuxt-chatgpt) - ChatGPT integration for Nuxt 3.
 - [ChatGptNet](https://github.com/marcominerva/ChatGptNet) - A ChatGPT integration library for .NET.
 - [react-native-chatgpt](https://github.com/rgommezz/react-native-chatgpt) - A React Native wrapper around ChatGPT to seamlessly integrate it with your applications. It handles authentication, streamed responses, and keeping track of conversations. 100% client-side.
 - [Quest](https://github.com/farrael004/Quest) - This is a web app that integrates GPT-3 with google searches.
+- [gptel](https://github.com/karthink/gptel) - A no-frills ChatGPT client for Emacs.
+- [ChatGPT-Xcode](https://github.com/fitomad/ChatGPT-Xcode) - Integrate ChatGPT in Xcode using a Xcode Source Editor Extension.
+- [VisualChatGPTStudio](https://github.com/jeffdapaz/VisualChatGPTStudio) - Add chatGPT functionalities directly on Visual Studio.
 
 ## CLI
 - [askai](https://github.com/yudax42/askai) - A command-line interface for OpenAI ChatGPT.
@@ -265,6 +272,7 @@
 - [CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages for you using ChatGPT AI (gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
 - [ChatGPTerminator](https://github.com/AineeJames/ChatGPTerminator) - ChatGPT in the terminal!
 - [AskGPT](https://github.com/praeclarum/AskGPT) - Ask ChatGPT questions from the command line.
+- [gpt-cli](https://github.com/CristiVlad25/gpt-cli) - Access GPT3, ChatGPT, and GPT4 straight from your terminal.
 
 ## Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
