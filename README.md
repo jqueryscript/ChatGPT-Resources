@@ -167,7 +167,8 @@
 - [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate ChatGPT into your own discord bot.
 - [SirChatalot](https://github.com/sazonovanton/SirChatalot) - A Telegram bot powered by new OpenAI API for ChatGPT and Whisper.
 - [discourse-chatbot](https://github.com/merefield/discourse-chatbot) - A cloud chatbot adaptor for Discourse, currently supporting OpenAI.
-- [TeleGPT](https://github.com/IcyStudio/TeleGPT) - An out-of-box ChatGPT bot for Telegram.
+- [TeleGPT](https://github.com/Helixform/TeleGPT) - An out-of-box ChatGPT bot for Telegram.
+- [pokitoki](https://github.com/nalgeon/pokitoki) - Humble ChatGPT Telegram Bot.
 
 ## Libraries
 
@@ -223,6 +224,9 @@
 - [PlaticaBot](https://github.com/migueldeicaza/PlaticaBot) - A ChatGPT app for MacOS, iPhone and WatchOS.
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs.
 - [jasper-alternative-gpt](https://github.com/yuvalsuede/jasper-alternative-gpt) - A Jasper alternative open source with ChatGPT
+- [BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux).
+- [nextjs-chatgpt-app](https://github.com/enricoros/nextjs-chatgpt-app) - Responsive chat application powered by OpenAI's GPT-4, with response streaming, code highlighting, various presets for developers. Using Next.js, React, Joy.
+- [chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API.
 
 ## Integration
 - [nuxt-chatgpt](https://github.com/SchnapsterDog/nuxt-chatgpt) - ChatGPT integration for Nuxt 3.
@@ -232,6 +236,8 @@
 - [gptel](https://github.com/karthink/gptel) - A no-frills ChatGPT client for Emacs.
 - [ChatGPT-Xcode](https://github.com/fitomad/ChatGPT-Xcode) - Integrate ChatGPT in Xcode using a Xcode Source Editor Extension.
 - [VisualChatGPTStudio](https://github.com/jeffdapaz/VisualChatGPTStudio) - Add chatGPT functionalities directly on Visual Studio.
+- [chatgpt-md](https://github.com/bramses/chatgpt-md) - A (nearly) seamless integration of ChatGPT into Obsidian.
+- [AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor.
 
 ## CLI
 - [askai](https://github.com/yudax42/askai) - A command-line interface for OpenAI ChatGPT.
@@ -273,6 +279,7 @@
 - [ChatGPTerminator](https://github.com/AineeJames/ChatGPTerminator) - ChatGPT in the terminal!
 - [AskGPT](https://github.com/praeclarum/AskGPT) - Ask ChatGPT questions from the command line.
 - [gpt-cli](https://github.com/CristiVlad25/gpt-cli) - Access GPT3, ChatGPT, and GPT4 straight from your terminal.
+- [gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT.
 
 ## Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
