@@ -169,6 +169,7 @@
 - [discourse-chatbot](https://github.com/merefield/discourse-chatbot) - A cloud chatbot adaptor for Discourse, currently supporting OpenAI.
 - [TeleGPT](https://github.com/Helixform/TeleGPT) - An out-of-box ChatGPT bot for Telegram.
 - [pokitoki](https://github.com/nalgeon/pokitoki) - Humble ChatGPT Telegram Bot.
+- [whatbot](https://github.com/theshanergy/whatbot) - GPT based chat bot for WhatsApp which uses the OpenAI API.
 
 ## Libraries
 
@@ -227,6 +228,12 @@
 - [BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux).
 - [nextjs-chatgpt-app](https://github.com/enricoros/nextjs-chatgpt-app) - Responsive chat application powered by OpenAI's GPT-4, with response streaming, code highlighting, various presets for developers. Using Next.js, React, Joy.
 - [chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API.
+- [BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - Play and chat smarter with BetterChatGPT - an amazing open-source web app with a better UI for exploring OpenAI's ChatGPT API!
+- [storyteller](https://github.com/jaketae/storyteller) - Multimodal AI Story Teller, built with Stable Diffusion, GPT, and neural text-to-speech.
+- [generative-manim](https://github.com/360macky/generative-manim) - GPT-4 for video generation.
+- [summ](https://github.com/yasyf/summ) - GPT-based Conversation Summarizer.
+- [roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
+- [scrapeghost](https://github.com/jamesturk/scrapeghost) - Experimental library for scraping websites using OpenAI's GPT API.
 
 ## Integration
 - [nuxt-chatgpt](https://github.com/SchnapsterDog/nuxt-chatgpt) - ChatGPT integration for Nuxt 3.
@@ -238,6 +245,8 @@
 - [VisualChatGPTStudio](https://github.com/jeffdapaz/VisualChatGPTStudio) - Add chatGPT functionalities directly on Visual Studio.
 - [chatgpt-md](https://github.com/bramses/chatgpt-md) - A (nearly) seamless integration of ChatGPT into Obsidian.
 - [AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor.
+- [gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux.
+- [vim-ai](https://github.com/madox2/vim-ai) - Complete text, generate code and chat with GPT in Vim/Neovim using OpenAI.
 
 ## CLI
 - [askai](https://github.com/yudax42/askai) - A command-line interface for OpenAI ChatGPT.
@@ -295,6 +304,8 @@
 - [promptlib](https://github.com/jmpaz/promptlib) - A collection of prompts and wrappers for ChatGPT & GPT-3.
 - [ChatGPT-MidJourney-prompt](https://github.com/awekrx/ChatGPT-MidJourney-prompt) - A ChatGPT based prompt generation model for MidJorney. 
 - [click-prompt](https://github.com/prompt-engineering/click-prompt) - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click. 
+- [markprompt](https://github.com/motifland/markprompt) - Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
+- [prompt-layer-library](https://github.com/MagnivOrg/prompt-layer-library) - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions. 
 
 ## Misc
 - [chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT.
