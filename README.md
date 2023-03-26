@@ -170,6 +170,7 @@
 - [TeleGPT](https://github.com/Helixform/TeleGPT) - An out-of-box ChatGPT bot for Telegram.
 - [pokitoki](https://github.com/nalgeon/pokitoki) - Humble ChatGPT Telegram Bot.
 - [whatbot](https://github.com/theshanergy/whatbot) - GPT based chat bot for WhatsApp which uses the OpenAI API.
+- [slack-gpt-bot](https://github.com/alex000kim/slack-gpt-bot) - GPT4-powered Slack bot that can scrape URL contents.
 
 ## Libraries
 
@@ -289,6 +290,7 @@
 - [AskGPT](https://github.com/praeclarum/AskGPT) - Ask ChatGPT questions from the command line.
 - [gpt-cli](https://github.com/CristiVlad25/gpt-cli) - Access GPT3, ChatGPT, and GPT4 straight from your terminal.
 - [gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT.
+- [search-gpt](https://github.com/tobiasbueschel/search-gpt) - Connecting ChatGPT with the Internet.
 
 ## Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
