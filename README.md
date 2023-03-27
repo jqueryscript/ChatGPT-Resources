@@ -171,6 +171,7 @@
 - [pokitoki](https://github.com/nalgeon/pokitoki) - Humble ChatGPT Telegram Bot.
 - [whatbot](https://github.com/theshanergy/whatbot) - GPT based chat bot for WhatsApp which uses the OpenAI API.
 - [slack-gpt-bot](https://github.com/alex000kim/slack-gpt-bot) - GPT4-powered Slack bot that can scrape URL contents.
+- [ChatGPT-Discord-BOT](https://github.com/itskdhere/ChatGPT-Discord-BOT) - A Discord BOT Powered By OpenAI's ChatGPT.
 
 ## Libraries
 
@@ -235,6 +236,7 @@
 - [summ](https://github.com/yasyf/summ) - GPT-based Conversation Summarizer.
 - [roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [scrapeghost](https://github.com/jamesturk/scrapeghost) - Experimental library for scraping websites using OpenAI's GPT API.
+- [browser-agent](https://github.com/m1guelpf/browser-agent) - A browser AI agent, using GPT-4.
 
 ## Integration
 - [nuxt-chatgpt](https://github.com/SchnapsterDog/nuxt-chatgpt) - ChatGPT integration for Nuxt 3.
@@ -291,6 +293,8 @@
 - [gpt-cli](https://github.com/CristiVlad25/gpt-cli) - Access GPT3, ChatGPT, and GPT4 straight from your terminal.
 - [gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT.
 - [search-gpt](https://github.com/tobiasbueschel/search-gpt) - Connecting ChatGPT with the Internet.
+- [gptc](https://github.com/junyu-w/gptc) - Supercharge your CLI with the power of OpenAI's GPT model (and other models too!)
+- [clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types in ~/.clevercli/
 
 ## Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
