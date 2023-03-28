@@ -295,6 +295,8 @@
 - [search-gpt](https://github.com/tobiasbueschel/search-gpt) - Connecting ChatGPT with the Internet.
 - [gptc](https://github.com/junyu-w/gptc) - Supercharge your CLI with the power of OpenAI's GPT model (and other models too!)
 - [clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types in ~/.clevercli/
+- [opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second.
+- [cligpt](https://github.com/Luanf/cligpt) - Terminal autocomplete integation with GPT.
 
 ## Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
