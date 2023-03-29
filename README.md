@@ -15,7 +15,7 @@
 
 - [API](#api)
 - [Browser Extensions](#browser-extensions)
-- [Other Externsions](#other-externsions)
+- [Other Extensions](#other-extensions)
 - [Bots](#bots)
 - [Libraries](#libraries)
 - [Apps](#apps)
@@ -96,8 +96,9 @@
 - [sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends.
 - [ChatGPT-History-Downloader](https://github.com/Luo-Yihang/ChatGPT-History-Downloader) - A Google chrome extension to help download chat history with OpenAI ChatGPT
 - [openai](https://github.com/anasfik/openai) - Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e..).
+- [gpt-3.5-translator](https://github.com/clairelovesgravy/gpt-3.5-translator) - This Chrome extension allows you to translate selected text on web pages using the GPT-3.5-turbo model by OpenAI. It's easy to use, fast, and provides high-quality translations.
 
-## Other Externsions.
+## Other Extensions.
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT.
 - [chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - A Neovim plugin that lets you query ChatGPT inside a Neovim buffer.
 - [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - Unofficial ChatGPT raycast extension.
@@ -237,6 +238,7 @@
 - [roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [scrapeghost](https://github.com/jamesturk/scrapeghost) - Experimental library for scraping websites using OpenAI's GPT API.
 - [browser-agent](https://github.com/m1guelpf/browser-agent) - A browser AI agent, using GPT-4.
+- [TimeGPT](https://github.com/Spiderpig86/TimeGPT) - AI-powered time and dates.
 
 ## Integration
 - [nuxt-chatgpt](https://github.com/SchnapsterDog/nuxt-chatgpt) - ChatGPT integration for Nuxt 3.
@@ -314,6 +316,7 @@
 - [click-prompt](https://github.com/prompt-engineering/click-prompt) - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click. 
 - [markprompt](https://github.com/motifland/markprompt) - Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
 - [prompt-layer-library](https://github.com/MagnivOrg/prompt-layer-library) - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions. 
+- [ora-sh](https://github.com/ora-sh/Awesome-GPT4-Prompts) - A collection of awesome GPT4 prompts.
 
 ## Misc
 - [chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT.
