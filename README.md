@@ -97,6 +97,7 @@
 - [ChatGPT-History-Downloader](https://github.com/Luo-Yihang/ChatGPT-History-Downloader) - A Google chrome extension to help download chat history with OpenAI ChatGPT
 - [openai](https://github.com/anasfik/openai) - Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e..).
 - [gpt-3.5-translator](https://github.com/clairelovesgravy/gpt-3.5-translator) - This Chrome extension allows you to translate selected text on web pages using the GPT-3.5-turbo model by OpenAI. It's easy to use, fast, and provides high-quality translations.
+- [TaxyAI](https://github.com/TaxyAI/browser-extension) - Taxy uses GPT-4 to control your browser and perform repetitive actions on your behalf. Currently it allows you to define ad-hoc instructions. In the future it will also support saved and scheduled workflows.
 
 ## Other Extensions.
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT.
@@ -252,6 +253,7 @@
 - [AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor.
 - [gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux.
 - [vim-ai](https://github.com/madox2/vim-ai) - Complete text, generate code and chat with GPT in Vim/Neovim using OpenAI.
+- [filippofinke](https://github.com/filippofinke/WordGPT) - Bring the power of ChatGPT to Microsoft Word
 
 ## CLI
 - [askai](https://github.com/yudax42/askai) - A command-line interface for OpenAI ChatGPT.
