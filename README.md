@@ -98,6 +98,7 @@
 - [openai](https://github.com/anasfik/openai) - Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e..).
 - [gpt-3.5-translator](https://github.com/clairelovesgravy/gpt-3.5-translator) - This Chrome extension allows you to translate selected text on web pages using the GPT-3.5-turbo model by OpenAI. It's easy to use, fast, and provides high-quality translations.
 - [TaxyAI](https://github.com/TaxyAI/browser-extension) - Taxy uses GPT-4 to control your browser and perform repetitive actions on your behalf. Currently it allows you to define ad-hoc instructions. In the future it will also support saved and scheduled workflows.
+- [ChatGPTCustomizer](https://github.com/soulhighwing/ChatGPTCustomizer) - ChatGPTCustomizer helps you personalize your chat experience by using the power of the ChatGPT API.
 
 ## Other Extensions.
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT.
