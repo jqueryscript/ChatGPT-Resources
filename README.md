@@ -58,6 +58,8 @@
 - [Simple-ChatGPT-API-Desktop](https://github.com/Cranot/Simple-ChatGPT-API-Desktop) - Simple ChatGPT API for Desktop.
 - [ChatGPTKit](https://github.com/heysaik/ChatGPTKit) - A Swift Package to communicate with the ChatGPT API from OpenAI.
 - [CallGPT](https://github.com/dminGod/CallGPT) - A dead simple way to call the ChatGPT API from your machine.
+- [ChatGPT-Proxy-V4](https://github.com/acheong08/ChatGPT-Proxy-V4) - Cloudflare Bypass for OpenAI based on `puid`.
+- [gptproxy](https://github.com/xicilion/gptproxy) - Use gitlab api key to proxy openai api.
 
 ## Browser Extensions
 
@@ -302,6 +304,7 @@
 - [clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types in ~/.clevercli/
 - [opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second.
 - [cligpt](https://github.com/Luanf/cligpt) - Terminal autocomplete integation with GPT.
+- [gptchat](https://github.com/ian-kent/gptchat) - A GPT-4 client which gives your favourite AI a memory and tools for self-improvement.
 
 ## Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
