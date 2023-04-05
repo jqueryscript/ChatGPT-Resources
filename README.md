@@ -60,6 +60,7 @@
 - [CallGPT](https://github.com/dminGod/CallGPT) - A dead simple way to call the ChatGPT API from your machine.
 - [ChatGPT-Proxy-V4](https://github.com/acheong08/ChatGPT-Proxy-V4) - Cloudflare Bypass for OpenAI based on `puid`.
 - [gptproxy](https://github.com/xicilion/gptproxy) - Use gitlab api key to proxy openai api.
+- [slickgpt](https://github.com/ShipBit/slickgpt) - A light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
 
 ## Browser Extensions
 
@@ -305,6 +306,8 @@
 - [opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second.
 - [cligpt](https://github.com/Luanf/cligpt) - Terminal autocomplete integation with GPT.
 - [gptchat](https://github.com/ian-kent/gptchat) - A GPT-4 client which gives your favourite AI a memory and tools for self-improvement.
+- [promptr](https://github.com/ferrislucas/promptr) - A CLI tool for operating on your codebase using GPT. Promptr dynamically includes one or more files into your GPT prompts, and it can optionally parse and apply the changes that GPT suggests to your codebase. Several prompt templates are included for various purposes, and users can create their own templates.
+- [fjrdomingues](https://github.com/fjrdomingues/autopilot) - Autopilot is an AI tool that utilizes GPT to read a codebase, create context, and solve tasks that you request.
 
 ## Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
