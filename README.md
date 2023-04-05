@@ -346,4 +346,5 @@
 - [OpenAI-Checker](https://github.com/missuo/OpenAI-Checker) - Used to check if your IP can access OpenAI services.
 - [ChatGPT-Proxy](https://github.com/acheong08/ChatGPT-Proxy) - Forward requests and inject CloudFlare cookies
 - [chatpad](https://github.com/deiucanta/chatpad) - Premium quality UI for ChatGPT
+- [chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - Single client side script to backup your entire ChatGPT conversation history.
 - [awesome-chatgpt-plugins](https://github.com/jqueryscript/awesome-chatgpt-plugins) - An awesome & curated list of best plugins for ChatGPT.
