@@ -347,4 +347,5 @@
 - [ChatGPT-Proxy](https://github.com/acheong08/ChatGPT-Proxy) - Forward requests and inject CloudFlare cookies
 - [chatpad](https://github.com/deiucanta/chatpad) - Premium quality UI for ChatGPT
 - [chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - Single client side script to backup your entire ChatGPT conversation history.
+- [openai-gpt4](https://github.com/xtekky/openai-gpt4) - Free gpt4 / gpt3.5 access through several reverse engineered api's (nat.dev, poe.com, t3nsor.com etc...)
 - [awesome-chatgpt-plugins](https://github.com/jqueryscript/awesome-chatgpt-plugins) - An awesome & curated list of best plugins for ChatGPT.
