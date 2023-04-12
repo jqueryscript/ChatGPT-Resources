@@ -310,6 +310,7 @@
 - [promptr](https://github.com/ferrislucas/promptr) - A CLI tool for operating on your codebase using GPT. Promptr dynamically includes one or more files into your GPT prompts, and it can optionally parse and apply the changes that GPT suggests to your codebase. Several prompt templates are included for various purposes, and users can create their own templates.
 - [fjrdomingues](https://github.com/fjrdomingues/autopilot) - Autopilot is an AI tool that utilizes GPT to read a codebase, create context, and solve tasks that you request.
 - [gpt-4-search](https://github.com/andylokandy/gpt-4-search) - A command line GPT-4 REPL with Google search in 200 lines of code.
+- [ShellGPT](https://github.com/mattvr/ShellGPT) - A command-line tool that allows you to interact with GPT-4 directly from your terminal.
 
 ## Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
