@@ -61,6 +61,7 @@
 - [ChatGPT-Proxy-V4](https://github.com/acheong08/ChatGPT-Proxy-V4) - Cloudflare Bypass for OpenAI based on `puid`.
 - [gptproxy](https://github.com/xicilion/gptproxy) - Use gitlab api key to proxy openai api.
 - [slickgpt](https://github.com/ShipBit/slickgpt) - A light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
+- [gpt-free](https://github.com/editor-syntax/gpt-free) - List of hand-picked gpt-3.5+ model APIs that are free to use.
 
 ## Browser Extensions
 
@@ -178,6 +179,7 @@
 - [whatbot](https://github.com/theshanergy/whatbot) - GPT based chat bot for WhatsApp which uses the OpenAI API.
 - [slack-gpt-bot](https://github.com/alex000kim/slack-gpt-bot) - GPT4-powered Slack bot that can scrape URL contents.
 - [ChatGPT-Discord-BOT](https://github.com/itskdhere/ChatGPT-Discord-BOT) - A Discord BOT Powered By OpenAI's ChatGPT.
+- [telegram-chatgpt-concierge-bot](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot) - Telegram ChatGPT Concierge Bot.
 
 ## Libraries
 
@@ -191,6 +193,7 @@
 - [Sekiryu](https://github.com/20urc3/Sekiryu) - A python script that performs automatic decompilation and analysis of binary files with your prefered Decompiler and ChatGPT
 - [Smarty-GPT](https://github.com/citiususc/Smarty-GPT) - Library of prompts/contexts that allows to enhance GPT models responses without the involvement of the user.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [gptagent.js](https://github.com/lgrammel/gptagent.js) - Build AI Agents with TS/JS.
 
 ## Apps
 
@@ -245,6 +248,7 @@
 - [scrapeghost](https://github.com/jamesturk/scrapeghost) - Experimental library for scraping websites using OpenAI's GPT API.
 - [browser-agent](https://github.com/m1guelpf/browser-agent) - A browser AI agent, using GPT-4.
 - [TimeGPT](https://github.com/Spiderpig86/TimeGPT) - AI-powered time and dates.
+- [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
 
 ## Integration
 - [nuxt-chatgpt](https://github.com/SchnapsterDog/nuxt-chatgpt) - ChatGPT integration for Nuxt 3.
@@ -311,6 +315,7 @@
 - [fjrdomingues](https://github.com/fjrdomingues/autopilot) - Autopilot is an AI tool that utilizes GPT to read a codebase, create context, and solve tasks that you request.
 - [gpt-4-search](https://github.com/andylokandy/gpt-4-search) - A command line GPT-4 REPL with Google search in 200 lines of code.
 - [ShellGPT](https://github.com/mattvr/ShellGPT) - A command-line tool that allows you to interact with GPT-4 directly from your terminal.
+- [ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
 
 ## Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
@@ -351,4 +356,5 @@
 - [chatpad](https://github.com/deiucanta/chatpad) - Premium quality UI for ChatGPT
 - [chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - Single client side script to backup your entire ChatGPT conversation history.
 - [openai-gpt4](https://github.com/xtekky/openai-gpt4) - Free gpt4 / gpt3.5 access through several reverse engineered api's (nat.dev, poe.com, t3nsor.com etc...)
+- [toolkit-ai](https://github.com/hey-pal/toolkit-ai) - AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
 - [awesome-chatgpt-plugins](https://github.com/jqueryscript/awesome-chatgpt-plugins) - An awesome & curated list of best plugins for ChatGPT.
