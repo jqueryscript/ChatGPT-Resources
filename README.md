@@ -64,7 +64,7 @@
 - [gpt-free](https://github.com/editor-syntax/gpt-free) - List of hand-picked gpt-3.5+ model APIs that are free to use.
 
 ## Browser Extensions
-
+- [Best ChatGPT Browser Extensions](https://www.scriptbyai.com/best-chatgpt-browser-extensions/) - 10 best and free ChatGPT browser extensions that will take your browsing game to the next level!
 - [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT.
 - [ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) - Chrome Extension that Integrates ChatGPT (Unofficial) into Google Search.
 - [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
@@ -120,7 +120,7 @@
 - [chatgpt-helper](https://github.com/kiranvshah/chatgpt-helper) - A VS Code extension to quickly query OpenAI's ChatGPT from inside your editor.
 
 ## Bots
-
+- [Best ChatGPT Bots For Telegram](https://www.scriptbyai.com/best-chatgpt-bots-telegram/) - 7 Best ChatGPT Bots For Telegram: Unleashing the Future of AI-Powered Messaging.
 - [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
 - [chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty.
@@ -265,6 +265,7 @@
 - [filippofinke](https://github.com/filippofinke/WordGPT) - Bring the power of ChatGPT to Microsoft Word
 
 ## CLI
+- [Best Tools To Interact With ChatGPT In CLI](https://www.scriptbyai.com/best-chatgpt-cli-tools/) - 10 best and free CLI tools for ChatGPT: streamline your workflow, enhance your conversational AI experience, and unlock new opportunities with these powerful resources.
 - [askai](https://github.com/yudax42/askai) - A command-line interface for OpenAI ChatGPT.
 - [chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI.
 - [chatgpt](https://github.com/kkdai/chatgpt) - ChatGPT Console client in Golang.
@@ -318,6 +319,7 @@
 - [ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
 
 ## Prompts
+- [20 Best ChatGPT Prompts For SEO](https://www.scriptbyai.com/best-chatgpt-prompts-seo/) - Harness the power of AI: 20 must-use ChatGPT prompts for mastering SEO.
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Some ChatGPT prompts that works well.
 - [ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT prompt curation to use ChatGPT better.
 - [awesome-chatgpt-suggestions](https://github.com/aminblm/awesome-chatgpt-suggestions) - List of prompts for chatGPT for various assistances with tasks.
