@@ -357,4 +357,6 @@
 - [chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - Single client side script to backup your entire ChatGPT conversation history.
 - [openai-gpt4](https://github.com/xtekky/openai-gpt4) - Free gpt4 / gpt3.5 access through several reverse engineered api's (nat.dev, poe.com, t3nsor.com etc...)
 - [toolkit-ai](https://github.com/hey-pal/toolkit-ai) - AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
+- [GPTCache](https://github.com/zilliztech/GPTCache) - A library for creating semantic cache to store responses from LLM queries.
+- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [awesome-chatgpt-plugins](https://github.com/jqueryscript/awesome-chatgpt-plugins) - An awesome & curated list of best plugins for ChatGPT.
