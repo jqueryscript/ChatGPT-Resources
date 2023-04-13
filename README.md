@@ -361,4 +361,5 @@
 - [toolkit-ai](https://github.com/hey-pal/toolkit-ai) - AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
 - [GPTCache](https://github.com/zilliztech/GPTCache) - A library for creating semantic cache to store responses from LLM queries.
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Best And Free AI Content Detector Tools](https://www.scriptbyai.com/best-free-ai-content-detectors/) - 5 best and free AI content detection tools to verify the authenticity of online content.
 - [awesome-chatgpt-plugins](https://github.com/jqueryscript/awesome-chatgpt-plugins) - An awesome & curated list of best plugins for ChatGPT.
