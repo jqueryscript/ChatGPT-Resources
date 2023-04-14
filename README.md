@@ -17,6 +17,7 @@
 - [Browser Extensions](#browser-extensions)
 - [Other Extensions](#other-extensions)
 - [Bots](#bots)
+- [Agents](#agents)
 - [Libraries](#libraries)
 - [Apps](#apps)
 - [Integration](#integration)
@@ -180,6 +181,14 @@
 - [slack-gpt-bot](https://github.com/alex000kim/slack-gpt-bot) - GPT4-powered Slack bot that can scrape URL contents.
 - [ChatGPT-Discord-BOT](https://github.com/itskdhere/ChatGPT-Discord-BOT) - A Discord BOT Powered By OpenAI's ChatGPT.
 - [telegram-chatgpt-concierge-bot](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot) - Telegram ChatGPT Concierge Bot.
+- [Dibbr](https://github.com/thehemi/Dibbr) - Smart, context-aware GPT-4/Custom LLM bot for discord.
+
+## Agents
+- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [gptagent.js](https://github.com/lgrammel/gptagent.js) - Build AI Agents with TS/JS.
+- [gpt-assistant](https://github.com/BuilderIO/gpt-assistant) - An experiment to give an autonomous GPT agent access to a browser and have it accomplish tasks.
+- [darwin-gpt](https://github.com/muellerberndt/darwin-gpt) - A minimal self-replicating agent based on GPT-3.5/4.
 
 ## Libraries
 
@@ -192,8 +201,6 @@
 - [ChatGPT-Official](https://github.com/PawanOsman/ChatGPT-Official) - A simple Node.js module for creating ChatGPT using OpenAI official API.
 - [Sekiryu](https://github.com/20urc3/Sekiryu) - A python script that performs automatic decompilation and analysis of binary files with your prefered Decompiler and ChatGPT
 - [Smarty-GPT](https://github.com/citiususc/Smarty-GPT) - Library of prompts/contexts that allows to enhance GPT models responses without the involvement of the user.
-- [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
-- [gptagent.js](https://github.com/lgrammel/gptagent.js) - Build AI Agents with TS/JS.
 
 ## Apps
 
@@ -262,7 +269,9 @@
 - [AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor.
 - [gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux.
 - [vim-ai](https://github.com/madox2/vim-ai) - Complete text, generate code and chat with GPT in Vim/Neovim using OpenAI.
-- [filippofinke](https://github.com/filippofinke/WordGPT) - Bring the power of ChatGPT to Microsoft Word
+- [filippofinke](https://github.com/filippofinke/WordGPT) - Bring the power of ChatGPT to Microsoft Word.
+- [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) - A plugin for neovim that provides commands to interact with ChatGPT.
+- [backseat.nvim](https://github.com/james1236/backseat.nvim) - A neovim plugin that uses GPT to highlight and explain code readability issues.
 
 ## CLI
 - [Best Tools To Interact With ChatGPT In CLI](https://www.scriptbyai.com/best-chatgpt-cli-tools/) - 10 best and free CLI tools for ChatGPT: streamline your workflow, enhance your conversational AI experience, and unlock new opportunities with these powerful resources.
@@ -336,6 +345,7 @@
 - [markprompt](https://github.com/motifland/markprompt) - Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
 - [prompt-layer-library](https://github.com/MagnivOrg/prompt-layer-library) - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions. 
 - [ora-sh](https://github.com/ora-sh/Awesome-GPT4-Prompts) - A collection of awesome GPT4 prompts.
+- [SourceGPT](https://github.com/NightmareLab/SourceGPT) - Prompt manager and source code analyzer built on top of ChatGPT as the oracle
 
 ## Misc
 - [chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT.
@@ -360,6 +370,5 @@
 - [openai-gpt4](https://github.com/xtekky/openai-gpt4) - Free gpt4 / gpt3.5 access through several reverse engineered api's (nat.dev, poe.com, t3nsor.com etc...)
 - [toolkit-ai](https://github.com/hey-pal/toolkit-ai) - AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
 - [GPTCache](https://github.com/zilliztech/GPTCache) - A library for creating semantic cache to store responses from LLM queries.
-- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [Best And Free AI Content Detector Tools](https://www.scriptbyai.com/best-free-ai-content-detectors/) - 5 best and free AI content detection tools to verify the authenticity of online content.
 - [awesome-chatgpt-plugins](https://github.com/jqueryscript/awesome-chatgpt-plugins) - An awesome & curated list of best plugins for ChatGPT.
