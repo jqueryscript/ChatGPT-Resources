@@ -190,6 +190,7 @@
 - [gpt-assistant](https://github.com/BuilderIO/gpt-assistant) - An experiment to give an autonomous GPT agent access to a browser and have it accomplish tasks.
 - [darwin-gpt](https://github.com/muellerberndt/darwin-gpt) - A minimal self-replicating agent based on GPT-3.5/4.
 - [micro-gpt](https://github.com/muellerberndt/micro-gpt) - A minimal generic autonomous agent.
+- [agentx](https://github.com/slavakurilyak/agentx) - An experiment to extend Auto-GPT, babyagi, and other agents using LangChain.
 
 ## Libraries
 
