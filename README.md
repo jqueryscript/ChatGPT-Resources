@@ -257,7 +257,7 @@
 - [scrapeghost](https://github.com/jamesturk/scrapeghost) - Experimental library for scraping websites using OpenAI's GPT API.
 - [browser-agent](https://github.com/m1guelpf/browser-agent) - A browser AI agent, using GPT-4.
 - [TimeGPT](https://github.com/Spiderpig86/TimeGPT) - AI-powered time and dates.
-- [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [HealthGPT](https://github.com/StanfordBDHG/HealthGPT) - Query your Apple Health data with natural language.
 
 ## Integration
 - [nuxt-chatgpt](https://github.com/SchnapsterDog/nuxt-chatgpt) - ChatGPT integration for Nuxt 3.
