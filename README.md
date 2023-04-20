@@ -192,6 +192,7 @@
 - [micro-gpt](https://github.com/muellerberndt/micro-gpt) - A minimal generic autonomous agent.
 - [agentx](https://github.com/slavakurilyak/agentx) - An experiment to extend Auto-GPT, babyagi, and other agents using LangChain.
 - [js-agent](https://github.com/lgrammel/js-agent) - A composable and extensible framework for creating GPT agents with JavaScript and TypeScript.
+- [loopgpt](https://github.com/farizrahman4u/loopgpt) - Modular Auto-GPT Framework.
 
 ## Libraries
 
