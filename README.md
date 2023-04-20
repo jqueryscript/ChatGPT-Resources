@@ -191,6 +191,7 @@
 - [darwin-gpt](https://github.com/muellerberndt/darwin-gpt) - A minimal self-replicating agent based on GPT-3.5/4.
 - [micro-gpt](https://github.com/muellerberndt/micro-gpt) - A minimal generic autonomous agent.
 - [agentx](https://github.com/slavakurilyak/agentx) - An experiment to extend Auto-GPT, babyagi, and other agents using LangChain.
+- [js-agent](https://github.com/lgrammel/js-agent) - A composable and extensible framework for creating GPT agents with JavaScript and TypeScript.
 
 ## Libraries
 
@@ -274,6 +275,7 @@
 - [filippofinke](https://github.com/filippofinke/WordGPT) - Bring the power of ChatGPT to Microsoft Word.
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) - A plugin for neovim that provides commands to interact with ChatGPT.
 - [backseat.nvim](https://github.com/james1236/backseat.nvim) - A neovim plugin that uses GPT to highlight and explain code readability issues.
+- [MatGPT](https://github.com/toshiakit/MatGPT) - MATLAB app and class to access ChatGPT API from OpenAI.
 
 ## CLI
 - [Best Tools To Interact With ChatGPT In CLI](https://www.scriptbyai.com/best-chatgpt-cli-tools/) - 10 best and free CLI tools for ChatGPT: streamline your workflow, enhance your conversational AI experience, and unlock new opportunities with these powerful resources.
