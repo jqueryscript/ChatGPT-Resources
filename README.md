@@ -352,6 +352,7 @@
 - [prompt-layer-library](https://github.com/MagnivOrg/prompt-layer-library) - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions. 
 - [ora-sh](https://github.com/ora-sh/Awesome-GPT4-Prompts) - A collection of awesome GPT4 prompts.
 - [SourceGPT](https://github.com/NightmareLab/SourceGPT) - Prompt manager and source code analyzer built on top of ChatGPT as the oracle
+- [ChatGPT 500 Prompts](https://www.linkedin.com/pulse/chatgpt-500-prompts-make-you-top-1-copywriter-alexis-khvatov-) - ChatGPT 500 Prompts To Make You a Top 1% Copywriter
 
 ## Misc
 - [chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT.
