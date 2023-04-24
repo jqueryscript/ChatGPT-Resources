@@ -194,6 +194,7 @@
 - [agentx](https://github.com/slavakurilyak/agentx) - An experiment to extend Auto-GPT, babyagi, and other agents using LangChain.
 - [js-agent](https://github.com/lgrammel/js-agent) - A composable and extensible framework for creating GPT agents with JavaScript and TypeScript.
 - [loopgpt](https://github.com/farizrahman4u/loopgpt) - Modular Auto-GPT Framework.
+- [e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
 
 ## Libraries
 
