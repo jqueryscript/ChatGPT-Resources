@@ -195,6 +195,7 @@
 - [js-agent](https://github.com/lgrammel/js-agent) - A composable and extensible framework for creating GPT agents with JavaScript and TypeScript.
 - [loopgpt](https://github.com/farizrahman4u/loopgpt) - Modular Auto-GPT Framework.
 - [e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
+- [LordGPT](https://github.com/Cytranics/LordGPT) - An AI Autonomous Agent that can complete a wide range of tasks unassisted. Built using python and OpenAI / Azure GPT Models.
 
 ## Libraries
 
