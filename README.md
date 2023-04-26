@@ -183,6 +183,8 @@
 - [ChatGPT-Discord-BOT](https://github.com/itskdhere/ChatGPT-Discord-BOT) - A Discord BOT Powered By OpenAI's ChatGPT.
 - [telegram-chatgpt-concierge-bot](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot) - Telegram ChatGPT Concierge Bot.
 - [Dibbr](https://github.com/thehemi/Dibbr) - Smart, context-aware GPT-4/Custom LLM bot for discord.
+- [GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A robust, all-in-one GPT3 interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
+- [gptbot](https://github.com/go-aie/gptbot) - Question Answering Bot powered by OpenAI GPT models.
 
 ## Agents
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -281,6 +283,9 @@
 - [CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) - A plugin for neovim that provides commands to interact with ChatGPT.
 - [backseat.nvim](https://github.com/james1236/backseat.nvim) - A neovim plugin that uses GPT to highlight and explain code readability issues.
 - [MatGPT](https://github.com/toshiakit/MatGPT) - MATLAB app and class to access ChatGPT API from OpenAI.
+- [Integrate-ChatGPT-in-Excel-using-VBA](https://github.com/Sven-Bo/Integrate-ChatGPT-in-Excel-using-VBA) - Revolutionize your spreadsheet game with OpenAI's ChatGPT in Microsoft Excel using my custom VBA code.
+- [word-GPT-Plus](https://github.com/Kuingsmile/word-GPT-Plus) - A word add-in which integrates the chatGPT model into Microsoft Word. Both official and web api is supported.
+- [BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4.
 
 ## CLI
 - [Best Tools To Interact With ChatGPT In CLI](https://www.scriptbyai.com/best-chatgpt-cli-tools/) - 10 best and free CLI tools for ChatGPT: streamline your workflow, enhance your conversational AI experience, and unlock new opportunities with these powerful resources.
