@@ -185,6 +185,7 @@
 - [Dibbr](https://github.com/thehemi/Dibbr) - Smart, context-aware GPT-4/Custom LLM bot for discord.
 - [GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A robust, all-in-one GPT3 interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
 - [gptbot](https://github.com/go-aie/gptbot) - Question Answering Bot powered by OpenAI GPT models.
+- [insights-bot](https://github.com/nekomeowww/insights-bot) - A bot works with OpenAI GPT models to provide insights for your Telegram info flows.
 
 ## Agents
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -198,6 +199,7 @@
 - [loopgpt](https://github.com/farizrahman4u/loopgpt) - Modular Auto-GPT Framework.
 - [e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
 - [LordGPT](https://github.com/Cytranics/LordGPT) - An AI Autonomous Agent that can complete a wide range of tasks unassisted. Built using python and OpenAI / Azure GPT Models.
+- [Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API) - A repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. 
 
 ## Libraries
 
@@ -286,6 +288,8 @@
 - [Integrate-ChatGPT-in-Excel-using-VBA](https://github.com/Sven-Bo/Integrate-ChatGPT-in-Excel-using-VBA) - Revolutionize your spreadsheet game with OpenAI's ChatGPT in Microsoft Excel using my custom VBA code.
 - [word-GPT-Plus](https://github.com/Kuingsmile/word-GPT-Plus) - A word add-in which integrates the chatGPT model into Microsoft Word. Both official and web api is supported.
 - [BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4.
+- [JavaGPT](https://github.com/FrankCYB/JavaGPT) - A Java GUI that interfaces ChatGPT API.
+- [DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI) - OpenAI API client for Delphi. Use ChatGPT, DALL-E and other products.
 
 ## CLI
 - [Best Tools To Interact With ChatGPT In CLI](https://www.scriptbyai.com/best-chatgpt-cli-tools/) - 10 best and free CLI tools for ChatGPT: streamline your workflow, enhance your conversational AI experience, and unlock new opportunities with these powerful resources.
