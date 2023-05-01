@@ -200,6 +200,7 @@
 - [e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
 - [LordGPT](https://github.com/Cytranics/LordGPT) - An AI Autonomous Agent that can complete a wide range of tasks unassisted. Built using python and OpenAI / Azure GPT Models.
 - [Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API) - A repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. 
+- [mini-agi](https://github.com/muellerberndt/mini-agi) - A minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza.. 
 
 ## Libraries
 
