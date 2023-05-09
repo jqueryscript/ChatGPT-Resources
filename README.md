@@ -391,5 +391,6 @@
 - [openai-gpt4](https://github.com/xtekky/openai-gpt4) - Free gpt4 / gpt3.5 access through several reverse engineered api's (nat.dev, poe.com, t3nsor.com etc...)
 - [toolkit-ai](https://github.com/hey-pal/toolkit-ai) - AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
 - [GPTCache](https://github.com/zilliztech/GPTCache) - A library for creating semantic cache to store responses from LLM queries.
+- [infiniteGPT](https://github.com/emmethalm/infiniteGPT) - A Python script that lets you input an unlimited size text into the OpenAI API. No more tedious copy & pasting. Long live multithreading!
 - [Best And Free AI Content Detector Tools](https://www.scriptbyai.com/best-free-ai-content-detectors/) - 5 best and free AI content detection tools to verify the authenticity of online content.
 - [awesome-chatgpt-plugins](https://github.com/jqueryscript/awesome-chatgpt-plugins) - An awesome & curated list of best plugins for ChatGPT.
