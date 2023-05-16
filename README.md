@@ -346,6 +346,7 @@
 - [gpt-4-search](https://github.com/andylokandy/gpt-4-search) - A command line GPT-4 REPL with Google search in 200 lines of code.
 - [ShellGPT](https://github.com/mattvr/ShellGPT) - A command-line tool that allows you to interact with GPT-4 directly from your terminal.
 - [ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
+- [aider](https://github.com/paul-gauthier/aider) - GPT-4 powered coding in your terminal
 
 ## Prompts
 - [20 Best ChatGPT Prompts For SEO](https://www.scriptbyai.com/best-chatgpt-prompts-seo/) - Harness the power of AI: 20 must-use ChatGPT prompts for mastering SEO.
