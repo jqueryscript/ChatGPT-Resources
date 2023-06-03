@@ -105,6 +105,7 @@
 - [TaxyAI](https://github.com/TaxyAI/browser-extension) - Taxy uses GPT-4 to control your browser and perform repetitive actions on your behalf. Currently it allows you to define ad-hoc instructions. In the future it will also support saved and scheduled workflows.
 - [ChatGPTCustomizer](https://github.com/soulhighwing/ChatGPTCustomizer) - ChatGPTCustomizer helps you personalize your chat experience by using the power of the ChatGPT API.
 - [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - A browser extension to add the missing features like Folders, Search, and Community Prompts to ChatGPT.
+- [ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - A free, open-source browser extension that helps you discover, share, import, and use the best prompts for ChatGPT. 
 
 ## Other Extensions.
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT.
@@ -349,7 +350,10 @@
 - [gpt-4-search](https://github.com/andylokandy/gpt-4-search) - A command line GPT-4 REPL with Google search in 200 lines of code.
 - [ShellGPT](https://github.com/mattvr/ShellGPT) - A command-line tool that allows you to interact with GPT-4 directly from your terminal.
 - [ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
-- [aider](https://github.com/paul-gauthier/aider) - GPT-4 powered coding in your terminal
+- [aider](https://github.com/paul-gauthier/aider) - GPT-4 powered coding in your terminal.
+- [gpt-cli](https://github.com/TheLime1/gpt-cli) - A command-line interface chatbot. It allows you to have interactive conversations with different bots, including GPT4 FOR FREE.
+- [cli](https://github.com/promptops/cli) - A GPT-powered CLI assistant. Ask questions in plain English, get the perfect shell command.
+- [aicmd](https://github.com/atinylittleshell/aicmd) - A CLI program that allows you to run shell commands using nautral language.
 
 ## Prompts
 - [20 Best ChatGPT Prompts For SEO](https://www.scriptbyai.com/best-chatgpt-prompts-seo/) - Harness the power of AI: 20 must-use ChatGPT prompts for mastering SEO.
