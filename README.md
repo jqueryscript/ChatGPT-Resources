@@ -401,4 +401,5 @@
 - [GPTCache](https://github.com/zilliztech/GPTCache) - A library for creating semantic cache to store responses from LLM queries.
 - [infiniteGPT](https://github.com/emmethalm/infiniteGPT) - A Python script that lets you input an unlimited size text into the OpenAI API. No more tedious copy & pasting. Long live multithreading!
 - [Best And Free AI Content Detector Tools](https://www.scriptbyai.com/best-free-ai-content-detectors/) - 5 best and free AI content detection tools to verify the authenticity of online content.
+- [Timeline Of ChatGPT](https://github.com/jqueryscript/chatgpt-timeline) - A timeline of ChatGPT: major events, milestones, controversies, etc.
 - [awesome-chatgpt-plugins](https://github.com/jqueryscript/awesome-chatgpt-plugins) - An awesome & curated list of best plugins for ChatGPT.
