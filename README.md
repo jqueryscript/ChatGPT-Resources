@@ -188,6 +188,7 @@
 - [gptbot](https://github.com/go-aie/gptbot) - Question Answering Bot powered by OpenAI GPT models.
 - [insights-bot](https://github.com/nekomeowww/insights-bot) - A bot works with OpenAI GPT models to provide insights for your Telegram info flows.
 - [Discord-AI-Chatbot](https://github.com/mishalhossin/Discord-AI-Chatbot) - This is a Discord Chatbot with image detection for free.
+- [ChatGPT-Telegram-Bot](https://github.com/V-know/ChatGPT-Telegram-Bot) - A Telegram bot with a smooth AI experience.
 
 ## Agents
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -208,6 +209,7 @@
 - [Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently.
 - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [molly](https://github.com/marmelab/molly) - A GPT-powered conversational agent with an inner monologue, demonstrating artificial consciousness. 
+- [gpt-autopilot](https://github.com/unconv/gpt-autopilot) - A GPT-4 powered AI agent that can create full projects with iterative prompting.
 
 ## Libraries
 
