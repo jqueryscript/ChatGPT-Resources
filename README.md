@@ -210,6 +210,7 @@
 - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [molly](https://github.com/marmelab/molly) - A GPT-powered conversational agent with an inner monologue, demonstrating artificial consciousness. 
 - [gpt-autopilot](https://github.com/unconv/gpt-autopilot) - A GPT-4 powered AI agent that can create full projects with iterative prompting.
+- [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent designed for comprehensive online research on a variety of tasks.
 
 ## Libraries
 
