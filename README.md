@@ -359,6 +359,7 @@
 - [gpt-cli](https://github.com/TheLime1/gpt-cli) - A command-line interface chatbot. It allows you to have interactive conversations with different bots, including GPT4 FOR FREE.
 - [cli](https://github.com/promptops/cli) - A GPT-powered CLI assistant. Ask questions in plain English, get the perfect shell command.
 - [aicmd](https://github.com/atinylittleshell/aicmd) - A CLI program that allows you to run shell commands using nautral language.
+- [Houston](https://github.com/npgrosser/Houston) - An GPT-based Terminal Assistant. It allows you to accomplish a wide range of tasks by giving simple, natural language instructions. It supports providing context information to help it complete tasks in a more meaningful way.
 
 ## Prompts
 - [20 Best ChatGPT Prompts For SEO](https://www.scriptbyai.com/best-chatgpt-prompts-seo/) - Harness the power of AI: 20 must-use ChatGPT prompts for mastering SEO.
