@@ -105,7 +105,8 @@
 - [TaxyAI](https://github.com/TaxyAI/browser-extension) - Taxy uses GPT-4 to control your browser and perform repetitive actions on your behalf. Currently it allows you to define ad-hoc instructions. In the future it will also support saved and scheduled workflows.
 - [ChatGPTCustomizer](https://github.com/soulhighwing/ChatGPTCustomizer) - ChatGPTCustomizer helps you personalize your chat experience by using the power of the ChatGPT API.
 - [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - A browser extension to add the missing features like Folders, Search, and Community Prompts to ChatGPT.
-- [ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - A free, open-source browser extension that helps you discover, share, import, and use the best prompts for ChatGPT. 
+- [ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - A free, open-source browser extension that helps you discover, share, import, and use the best prompts for ChatGPT.
+- [ChatGPT Export](https://github.com/yaph/chatgpt-export) - A browser bookmarklet for exporting conversations with ChatGPT as markdown files.
 
 ## Other Extensions.
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT.
