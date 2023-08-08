@@ -382,6 +382,7 @@
 - [ora-sh](https://github.com/ora-sh/Awesome-GPT4-Prompts) - A collection of awesome GPT4 prompts.
 - [SourceGPT](https://github.com/NightmareLab/SourceGPT) - Prompt manager and source code analyzer built on top of ChatGPT as the oracle
 - [ChatGPT 500 Prompts](https://www.linkedin.com/pulse/chatgpt-500-prompts-make-you-top-1-copywriter-alexis-khvatov-) - ChatGPT 500 Prompts To Make You a Top 1% Copywriter
+- [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - Simply input a description of your task and some test cases, and the system will generate, test, and rank a multitude of prompts to find the ones that perform the best.
 
 ## Misc
 - [chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT.
