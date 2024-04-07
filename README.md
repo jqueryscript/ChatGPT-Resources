@@ -28,41 +28,16 @@
 
 ## API
 
-- [ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
-- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API.
-- [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - TLS-based ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
-- [commitgpt](https://github.com/RomanHotsiy/commitgpt) - Automatically generate commit messages using ChatGPT.
-- [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - API for interacting with ChatGPT using Python and from Shell.
-- [gptchatteR](https://github.com/isinaltinkaya/gptchatteR) - An experimental and unofficial wrapper for interacting with ChatGPT in R.
-- [OpenAISwift](https://github.com/adamrushy/OpenAISwift) - A wrapper library around the ChatGPT and OpenAI HTTP API
-- [chatgpt-api](https://github.com/mbroton/chatgpt-api) - ChatGPT HTTP API Client and CLI
-- [chatgpt-java](https://github.com/PlexPt/chatgpt-java) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
-- [chatgpt-api](https://github.com/taranjeet/chatgpt-api) - An unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
-- [openaigo](https://github.com/otiai10/openaigo) - OpenAI (ChatGPT) API Client for Go.
-- [flutter_chatgpt_api](https://github.com/coskuncay/flutter_chatgpt_api) - Use ChatGPT from Flutter / Dart.
-- [ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) - API server for ChatGPT.
-- [easyChatGPT](https://github.com/LanLan69/easyChatGPT) - An unofficial yet elegant interface of the ChatGPT API using browser automation that bypasses cloudflare detection and recaptchas.
-- [chatgpt-io](https://github.com/PawanOsman/chatgpt-io) - ChatGPT Client API, Blazing Fast, without using browser.
-- [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - ChatGPT API Server.
-- [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) - A simple light-weight library that wraps ChatGPT API completions. Additions to support images and other beta features are in progress.
-- [ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server) - API server for ChatGPT.
+- [Official OpenAI API](https://platform.openai.com/api-keys) - Get your own OpenAI API Key from OpenAI.
+- [FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
+- [Free ChatGPT API](https://github.com/skzhengkai/free-chatgpt-api) - Access ChatGPT (GPT-3.5) API for absolutely free, hosted from your own computer! No API key required.
+- [ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [ChatGPTSwift](https://github.com/alfianlosari/ChatGPTSwift) - Access ChatGPT API using Swift.
-- [chatapi-single](https://github.com/bytemate/chatapi-single) - Simple and powerful ChatGPT-API-Server.
-- [EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat.
 - [OpenAI-DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet) - A fast lightweight DotNet library for OpenAI API.
-- [chatgpt-api-server](https://github.com/Lukium/chatgpt-api-server) - ChatGPT Web API server based on Flask that can respond both via browser through Flask Forms and directly via POST/GET Requests.
-- [chatgpt-web-api](https://github.com/swordintent/chatgpt-web-api) - A Java Version ChatGPT SDK.
-- [ChatGPT-PHP](https://github.com/HaoZi-Team/ChatGPT-PHP) - Real ChatGPT PHP SDK (Not GPT-3).
-- [ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with ChatGPT and Whisper...
+- [Whetstone.ChatGPT](https://github.com/johniwasz/whetstone.chatgpt) - A simple light-weight library that 
+- [ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with ChatGPT and Whisper.
 - [openai-kotlin](https://github.com/aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
-- [ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
-- [Simple-ChatGPT-API-Desktop](https://github.com/Cranot/Simple-ChatGPT-API-Desktop) - Simple ChatGPT API for Desktop.
-- [ChatGPTKit](https://github.com/heysaik/ChatGPTKit) - A Swift Package to communicate with the ChatGPT API from OpenAI.
-- [CallGPT](https://github.com/dminGod/CallGPT) - A dead simple way to call the ChatGPT API from your machine.
-- [ChatGPT-Proxy-V4](https://github.com/acheong08/ChatGPT-Proxy-V4) - Cloudflare Bypass for OpenAI based on `puid`.
-- [gptproxy](https://github.com/xicilion/gptproxy) - Use gitlab api key to proxy openai api.
 - [slickgpt](https://github.com/ShipBit/slickgpt) - A light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
-- [gpt-free](https://github.com/editor-syntax/gpt-free) - List of hand-picked gpt-3.5+ model APIs that are free to use.
 
 ## Browser Extensions
 - [Best ChatGPT Browser Extensions](https://www.scriptbyai.com/best-chatgpt-browser-extensions/) - 10 best and free ChatGPT browser extensions that will take your browsing game to the next level!
