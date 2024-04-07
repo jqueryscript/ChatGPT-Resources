@@ -41,46 +41,10 @@
 
 ## Browser Extensions
 - [Best ChatGPT Browser Extensions](https://www.scriptbyai.com/best-chatgpt-browser-extensions/) - 10 best and free ChatGPT browser extensions that will take your browsing game to the next level!
-- [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT.
-- [ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) - Chrome Extension that Integrates ChatGPT (Unofficial) into Google Search.
-- [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
-- [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) - A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.
-- [ChatGPT-Assistant](https://github.com/pdparchitect/ChatGPT-Assistant) - A powerful extension that enhances your browsing experience on the ChatGPT website, with features like page fetching and more.
-- [ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link.
-- [ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - A really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
-- [chat-gpt-search-extension](https://github.com/Doragd/chat-gpt-search-extension) - A browser extension to display ChatGPT response alongside Search results (fork from wong2 and develop continually).
-- [chat-gpt-assistant](https://github.com/msfrisbie/chat-gpt-assistant) - A browser extension to integrate ChatGPT everywhere.
-- [chatgpt-extension](https://github.com/iOliverNguyen/chatgpt-extension) - This extension loads ChatGPT in the current tab, allowing you to use ChatGPT along your working session. Simply click the extension icon in your browser toolbar to activate ChatGPT or use the shortcut Ctrl + \ .
-- [chat-gpt-soliloquy](https://github.com/yetone/chat-gpt-soliloquy) - A Chrome extension that allows ChatGPT to engage in a conversation with itself.
-- [ChatGPT for Search Engine](https://github.com/josStorer/chatGPT-search-engine-extension) - A browser extension to display ChatGPT response alongside Search Engine results, supports Chrome/Edge/Firefox.
-- [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt) - A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant.
-- [tweetGPT](https://github.com/yaroslav-n/tweetGPT) - A chrome extension that generates tweets and replies using chatGPT.
-- [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) - A simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
-- [gpt-best-chrome](https://github.com/rileytomasek/gpt-best-chrome) - Chrome extension for saving ChatGPT threads using gpt.best.
-- [ChatGPT-API-agent](https://github.com/ChatGPT-Hackers/ChatGPT-API-agent) - ChatGPT API Agent (Firefox version).
-- [hey-addy-chatgpt](https://github.com/MichaelVandi/hey-addy-chatgpt) - Email assistant powered by ChatGPT.
-- [GPT-Cookies](https://github.com/itsbrex/GPT-Cookies) - Chrome Extension to easily copy your ChatGPT cookies + user-agent to clipboard with one click.
-- [ChatGPT History](https://github.com/benf2004/ChatGPT-History) - A browser extension that allows you to save your ChatGPT conversation history. With this extension, you can easily review your past conversations and refer to them at a later time.
-- [chat-gpt-jupyter-extension](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - A browser extension to provide various AI helper functions in Jupyter Notebooks, powered by ChatGPT.
-- [Chat-GPT-for-Gmail](https://github.com/dtkdt100/Chat-GPT-for-Gmail) - A browser extension to complete your email with the help of ChatGPT.
-- [ChatGPT-SelfChat](https://github.com/vitaminwater/ChatGPT-SelfChat) - Stupid browser extension to make two instances of GPT chat together.
+- [AI-Prompt-Genius](https://github.com/benf2004/AI-Prompt-Genius) - Curate a custom library of AI Prompts
 - [chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
-- [chatgpt-soliloquy](https://github.com/yetone/chatgpt-soliloquy) - A Chrome extension that allows ChatGPT to engage in a conversation with itself.
-- [chatgpt-review-rebuttal-extension](https://github.com/LinXueyuanStdio/chatgpt-review-rebuttal-extension) - A browser extension for generating reviews and rebuttals in openreview, powered by ChatGPT.
-- [bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Bing ChatGPT on Chrome and Firefox.
-- [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - A browser extension to display ChatGPT Summary search results alongside Google results.
-- [chatgpt-review-rebuttal-extension](https://github.com/LinXueyuanStdio/chatgpt-review-rebuttal-extension) - A browser extension for generating reviews and rebuttals in openreview, powered by ChatGPT.
-- [gpt2markdown](https://github.com/0xreeko/gpt2markdown) - A browser extension that exports your ChatGPT conversations to Markdown format.
-- [writely](https://github.com/anc95/writely) - An AI powered chrome extension improving your writing and reading.
-- [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons.
-- [sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends.
 - [ChatGPT-History-Downloader](https://github.com/Luo-Yihang/ChatGPT-History-Downloader) - A Google chrome extension to help download chat history with OpenAI ChatGPT
 - [openai](https://github.com/anasfik/openai) - Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e..).
-- [gpt-3.5-translator](https://github.com/clairelovesgravy/gpt-3.5-translator) - This Chrome extension allows you to translate selected text on web pages using the GPT-3.5-turbo model by OpenAI. It's easy to use, fast, and provides high-quality translations.
-- [TaxyAI](https://github.com/TaxyAI/browser-extension) - Taxy uses GPT-4 to control your browser and perform repetitive actions on your behalf. Currently it allows you to define ad-hoc instructions. In the future it will also support saved and scheduled workflows.
-- [ChatGPTCustomizer](https://github.com/soulhighwing/ChatGPTCustomizer) - ChatGPTCustomizer helps you personalize your chat experience by using the power of the ChatGPT API.
-- [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - A browser extension to add the missing features like Folders, Search, and Community Prompts to ChatGPT.
-- [ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - A free, open-source browser extension that helps you discover, share, import, and use the best prompts for ChatGPT. 
 
 ## Other Extensions.
 - [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT.
