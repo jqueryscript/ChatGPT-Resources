@@ -241,6 +241,7 @@
 - [BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4.
 - [JavaGPT](https://github.com/FrankCYB/JavaGPT) - A Java GUI that interfaces ChatGPT API.
 - [DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI) - OpenAI API client for Delphi. Use ChatGPT, DALL-E and other products.
+- [MindMap AI](https://mindmapai.app/)) - AI-powered mind maps help you brainstorm with ease, turning complex thoughts into clear ideas
 
 ## CLI
 - [Best Tools To Interact With ChatGPT In CLI](https://www.scriptbyai.com/best-chatgpt-cli-tools/) - 10 best and free CLI tools for ChatGPT: streamline your workflow, enhance your conversational AI experience, and unlock new opportunities with these powerful resources.
