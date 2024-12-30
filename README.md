@@ -219,6 +219,7 @@
 - [browser-agent](https://github.com/m1guelpf/browser-agent) - A browser AI agent, using GPT-4.
 - [TimeGPT](https://github.com/Spiderpig86/TimeGPT) - AI-powered time and dates.
 - [HealthGPT](https://github.com/StanfordBDHG/HealthGPT) - Query your Apple Health data with natural language.
+- [bugfree.ai](https://bugfree.ai/) -  AI-powered platform designed to practice and prepare for system design and behavioral interviews.
 
 ## Integration
 - [nuxt-chatgpt](https://github.com/SchnapsterDog/nuxt-chatgpt) - ChatGPT integration for Nuxt 3.
