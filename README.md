@@ -350,3 +350,4 @@
 - [Best And Free AI Content Detector Tools](https://www.scriptbyai.com/best-free-ai-content-detectors/) - 5 best and free AI content detection tools to verify the authenticity of online content.
 - [Timeline Of ChatGPT](https://github.com/jqueryscript/chatgpt-timeline) - A timeline of ChatGPT: major events, milestones, controversies, etc.
 - [awesome-chatgpt-plugins](https://github.com/jqueryscript/awesome-chatgpt-plugins) - An awesome & curated list of best plugins for ChatGPT.
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Free remote Streamable HTTP MCP server and ChatGPT app for discovering live-music venues, planning tour routes, and searching touring acts across the US and Canada.
